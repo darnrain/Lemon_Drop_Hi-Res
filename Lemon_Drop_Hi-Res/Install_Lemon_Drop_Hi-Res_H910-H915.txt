@@ -1,6 +1,6 @@
 ****Warning ONLY flash on the H910-H915****
 
-What's included in v151.1?
+What's included?
 Modded boot.img
 Triton removed
 LG RCT removed (root checker tool)
@@ -9,11 +9,11 @@ Updated Oreo Modem Drivers
 Magisk v24.3
 ezV2020 Kernel v1.0
 New GPU drivers 313.0 V11
-Hi-Res Music Player Enabler v151.1
+Hi-Res Music Player Enabler
 DAC_Enabler+LGMusic_v1.3_Oreo
 Speed mod v5.31 includes image retention fix
 Thermal_Engine_Mod_v7.0_70c
-Enable system wide Quad DAC support. V8.2
+Enable system wide Quad DAC support.
 Added AdAway default blocklist to /system/etc/hosts (aka ad blocker)
 Added United States GPS Fix
 Added Camera improvement tweak
@@ -57,7 +57,7 @@ Lemon_Drop_Hi-Res_vxxx.x_H910-H915_Lgv20_flashable.zip
 from GitHub
 
 H910_20g_Oreo_full_rooted.zip
-Lemon_Drop_Hi-Res_v151.x_H910-H915_Lgv20_flashable.zip
+Lemon_Drop_Hi-Res_vxxx.x_H910-H915_Lgv20_flashable.zip
 
 2. Then copy both files to the micro sdcard on phone
 3. Reboot into twrp

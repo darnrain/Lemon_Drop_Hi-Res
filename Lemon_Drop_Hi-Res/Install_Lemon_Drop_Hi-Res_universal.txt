@@ -1,14 +1,15 @@
-What's included in v151.1?
+What's included?
+
 New GPU drivers 313.0 V11
 Disable MLT/LDB
 Removed Triton
 Disabled LG RCT (root checker tool)
 Disabled LG Backup
 Disabled ccmd
-Hi-Res Music Player Enabler v151.1
+Hi-Res Music Player Enabler
 Speed mod v5.31 includes image retention fix
 Thermal_Engine_Mod_v7.0_70c
-Enable system wide Quad DAC support. V8.2
+Enable system wide Quad DAC support.
 Added AdAway default blocklist to /system/etc/hosts (aka ad blocker)
 Added United States GPS Fix
 Added Camera improvement tweak

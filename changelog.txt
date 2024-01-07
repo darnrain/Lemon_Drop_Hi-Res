@@ -1,4 +1,4 @@
-v155.1
+Welcome to v155.1
 VBat = Voltage of the Battery.
 
 Well this is a change, normally I would be saying right about now, I improved the audio quality. However nope, I just increased maximum power to the QuadDAC. I fixed vbat on the QuadDAC, so in other words the only time the QuadDAC will be running at maximum power is when your battery is 100%.
@@ -6,3 +6,5 @@ Well this is a change, normally I would be saying right about now, I improved th
 If you remember when I first started to improve the audio quality, I said I am going to make the Lgv20 the worlds best sounding phone. I think we are getting close to that goal!!!
 
 New location, new change log.
+
+Enjoy everyone...

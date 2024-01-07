@@ -1,5 +1,6 @@
+![banner](https://github.com/darnrain/Lemon_Drop_Hi-Res/assets/60840489/1fd80758-cdef-4be1-afb5-1d6666d383a0)
 ## Welcome to the future of music...<br>
-An addon for the Lgv20 running Stock Oreo.
+An addon for the Lgv20 running Stock Oreo.<br>
 The Lgv20 was first with the Android Nougat operating system.<br>
 Now it's the first running in True Native Mode.<br>
 With all 4 DACs enabled.<br>

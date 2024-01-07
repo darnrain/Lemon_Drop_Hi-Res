@@ -1,8 +1,6 @@
-Welcome to v155.1
-Well this is a change, normally I would be saying right about now, I improved the audio quality. How ever nope, I just increased maximum power to the QuadDAC. This may also improve battery life on the Lgv20, when your not blasting your music that is.
+v155.1
+Well this is a change, normally I would be saying right about now, I improved the audio quality. How ever nope, I just increased maximum power to the QuadDAC. I fixed vbat on the QuadDAC, so in other words the more power you have in your battery, the more power goes to the QuadDAC to run your headphones. This also goes both ways, the less battery power you have the less power to the QuadDAC. VBat = Voltage of the Battery.
 
 If you remember when I first started to improve the audio quality, I said I am going to make the Lgv20 the worlds best sounding phone. I think we are getting close to that goal!!!
 
 New location, new change log.
-
-Enjoy everyone…

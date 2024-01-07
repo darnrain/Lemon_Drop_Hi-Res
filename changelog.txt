@@ -1,8 +1,6 @@
 Welcome to v155.1
 Well this is a change, normally I would be saying right about now, I improved the audio quality. How ever nope, I just increased maximum power to the QuadDAC. This may also improve battery life on the Lgv20, when your not blasting your music that is.
 
-I had XDA just close out the Lemon Drop Hi-Res page. I don't have time for lineageOS devs that don't understand what I am doing, I have more important things to concentrate on, like programing a QuadDAC. It is in the works, I am going to move Lmeon Drop HI-Res to GitHub, and delete the XDA site. I will keep you posted on changes. Oh and again, don’t go blowing your ear drums out. ;)
-
 If you remember when I first started to improve the audio quality, I said I am going to make the Lgv20 the worlds best sounding phone. I think we are getting close to that goal!!!
 
 Enjoy everyone…

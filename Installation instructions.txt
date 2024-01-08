@@ -1,3 +1,0 @@
-If you make a change in the mixer_paths file and restart the phone the QuadDAC does not update to the new code, it retains the code that it already has in it's memory. You must flash the twrp file then power off your phone, remove your battery and then hold the power button down for 10 seconds. Then the QuadDAC will update it's code from the mixer_paths file.
-
-Note: This applys only when the QuadDAC is running in True Native Mode.

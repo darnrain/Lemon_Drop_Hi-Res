@@ -39,7 +39,7 @@ I like the profile HIFIMAN RE600, it works great with my Ankbit E600 headphones.
 
 Poweramp also has a feature that you can change music tracks with the volume buttons on the Lgv20 when screen is on and off. Go to settings, Audio, Advanced Tweaks, Change Tracks by Long Volume Keys Press. You need to use the adb command to enable it.
 
-Warning, Do not try to long press to change tracks when Poweramp is open, it does not work and you will blast your ear drums out.
+Warning, Do not try to long press to change tracks when Poweramp is open, it does not work and you will blast your ear drums out. Yeah I found out the hard way.
 
 Also Poweramp has a nice preamp, if the music is to loud you can always lower the preamp volume. May have to do that on the internal speaker. You need to assign a profile first to the device for the settings to be saved.
 

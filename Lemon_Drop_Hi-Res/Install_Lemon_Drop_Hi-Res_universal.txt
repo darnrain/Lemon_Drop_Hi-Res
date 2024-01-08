@@ -87,8 +87,7 @@ B. ezV2020 v1.0 Kernel
 C. Magisk v21.4
 D. Twrp (The twrp img file you can flash with twrp you just need to select Install Image, select the file and choose recovery)
 E. Lemon_Drop_Hi-Res_vxxx.x_universal_Lgv20_flashable.zip
-8. Power off, take battery out hold power button down for 10 seconds.
-9. Power on, run setup and enjoy.
+8. Reboot into system, run setup
 
 Number 8 applies for all updates, it's always a good idea to take battery out.
 

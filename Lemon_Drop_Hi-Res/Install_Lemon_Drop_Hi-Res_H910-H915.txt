@@ -65,7 +65,7 @@ Lemon_Drop_Hi-Res_vxxx.x_H910-H915_Lgv20_flashable.zip
 5. Format Data Partition (this will erase your internal storage on the phone)
 6. Click back and reboot into recovery again. aka twrp
 7. Flash H910_20g_Oreo_full_rooted.zip
-8. Flash Lemon_Drop_Hi-Res_v151.x_H910-H915_Lgv20_flashable.zip
+8. Flash Lemon_Drop_Hi-Res_vxxx.x_H910-H915_Lgv20_flashable.zip
 9. Power off, take battery out hold power button down for 10 seconds.
 10. Power on, run setup and enjoy.
 

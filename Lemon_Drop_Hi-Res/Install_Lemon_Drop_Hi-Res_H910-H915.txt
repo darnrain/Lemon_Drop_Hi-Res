@@ -73,6 +73,7 @@ Number 9 applies for all updates, it's always a good idea to take battery out.
 
 Notes:
 You can use an app like package manager to debloat more apps on your phone.
+https://f-droid.org/en/packages/com.smartpack.packagemanager/
 
 Good idea to reinstall your EFS to get cell signal working. Under How to Root the H910 and install Lemon Drop Hi-Res? You only need to do this once.
 

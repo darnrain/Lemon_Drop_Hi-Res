@@ -1,4 +1,4 @@
-Please note that some of my change log notes may be incorrect, keep in mind this has never been done in history, to my knowledge. I was just winging it, trial and error and my advanced Linux computer skills. ;)
+These are my notes when I was working on Lemon Drop Hi-Res over at XDA. I uploaded them to GitHub, I thought maybe someone may find them interesting. 
 
 Welcome to v156.1
 I am getting so much accomplished with programing this QuadDAC, without any distractions. All this time I have been working on maxing out the power to the DAC, I totally forgot about the headphones side of the DAC. From my understanding, the DAC will read the Oms reading of your headphones and adjust power accordingly. As always don’t blow your ear drums out, this version may!!!

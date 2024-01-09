@@ -25,15 +25,6 @@ As you know I have left XDA, I don’t like bully’s, and I am not going to put
 
 Enjoy everyone…
 
-Welcome to v152.1
-Okay my brake is over, I never said for how long. What I meant to say was, I was going to take a break from XDA. From now on just check mega servers. I did a little research and I guess all LineageOS dev's are rude and mean, they think they are in an elite group and they are better than everyone else. Me on the other hand, I try and treat people with courtesy and respect, same as how I would want to be treated myself. I feel like I am back in high school all over again and the bully's just showed up. I contacted XDA support, we will see what they will do about this. I got a joke, How many people does it take to spoil a good time, about 4 LineageOS guys...
-
-This is it ladies and gentlemen, this is the one. Now my ears are vibrating even more. I fixed the vbat thing I was talking about. You have to try the bass+ version now, I don’t see any harm in jumping back and forth as long as you take your battery out and hold the power button down, that will reset the QuadDAC. So from now on just bug fixes. No need to check back everyday, in less you want to.
-
-PS. I had some of the most fun of my entire life working on Lemon Drop Hi-Res, I hope you guys enjoy the Lgv20 as much as I do, now that we have the worlds best, Hi-Res Phone Player. ;)
-
-Enjoy everyone and take care...
-
 Welcome to v151.1
 I left a few lines of code in the mixer_paths, they needed to be removed, I moved them to the top and forgot they were also down below. They don't need to be in there twice.
 
@@ -50,8 +41,11 @@ Welcome to v149.1
 I was able to increase the audio quality, a lot. People new may not know how I programed the QuadDAC. I love treble, so that’s how I programed the QuadDAC. This is the only version made by me, that you can hear both DACs blasting away with mass quantities of Treble.
 
 DAC 0 = Treble
+
 DAC 1 = Bass
+
 DAC 2 = Treble
+
 DAC 3 = Mid-Range
 
 I discovered that the True Native Mode code that I created had a flaw, it was only 99.8% correct, that 0.2% was enough to throw the entire QuadDAC out of perfect rhythm. So I got to reprogramming the QuadDAC again, writing all 1567 lines of the True Native mode code again. This time I took my time, went nice and slow to make sure everything is perfect. When programing a QuadDAC everything and I mean everything has to be absolutely 100% perfect. This is the only version ever made by me, that True Native Mode is operating at 100%.
@@ -62,8 +56,8 @@ Note: After flashing this version in twrp, it is my professional opinion that we
 
 Enjoy everyone...
 
-Welcome to v148.1
-I swear I feel like a kid in a candy store, when I am programing the mixer_paths file. I forgot about speaker-mono so I created a code called True Mono Control. But that’s not the important part, the most important part is I have improved the audio quality a lot. I found code called fake_speaker it was connected to speaker-mono. I thought that was odd, it should be connected to speaker not speaker-mono? Anyway I use my advanced Linux computer skills again, and programed in fake_speaker and fake_speaker-mono. Connected them to the correct locations and wouldn't you know it, the DAC took off like a rocket. Now you can crank up that bass and treble and have the DAC produce some crazy good audio.
+Welcome to v148.3
+I swear I feel like a kid in a candy store, when I am programing the mixer_paths file. I forgot about speaker-mono so I created a code called True Mono Control. But that’s not the important part, the most important part is I have improved the audio quality a lot. I found code called fake_speaker it was connected to speaker-mono. I thought that was odd, it should be connected to speaker not speaker-mono? Anyway I used my advanced Linux computer skills again, and programed in fake_speaker and fake_speaker-mono. Connected them to the correct locations and wouldn't you know it, the DAC took off like a rocket. Now you can crank up that bass and treble and have the DAC produce some crazy good audio.
 
 The DAC has to know what absolute zero volume sounds like to be able to produce good quality audio.
 
@@ -92,7 +86,7 @@ Welcome to v144.1
 This version replaces v143.2, it can be extremely complicated when programing a QuadDAC, you don’t just have one CPU core to program but four. I fixed a bug the left channel was softer than the right. Now they are both perfectly balanced, and very loud when all four DACs are operating at 100% and perfectly in rhythm.
 
 Lets try this again...
-I added 100% new original code to the QuadDAC, that I am calling True Stereo Control. This will place two DACs on the left and two on the right channel. Also I have made some other modifications to the QuadDAC code that will put it in, lets say overdrive. This will take the QuadDAC to the next level. You do not have to acclimate this version, the acclimation process only needs to be done once, I have since found out. 
+I added 100% new original code to the QuadDAC, that I am calling True Stereo Control. This will place two DACs on the left and two on the right channel. Also I have made some other modifications to the QuadDAC code that will put it in, lets say overdrive. This will take the QuadDAC to the next level. You do not have to acclimate this version, the acclimation process only needs to be done once, I have since found out.
 
 Enjoy everyone..
 
@@ -106,7 +100,17 @@ Enjoy everyone…
 Welcome to v142.1
 When programing a QuadDAC you do not have visual gauges to view to see if you have done something wrong, its all done by the sound of the DAC. For example if you have increased the amount of channels way to high or messed up on your programing code, then the DACs volume will be decreased or the music will not sound like its full of life. The only way to accomplish that, is to lower the AVC volume. In other words it decreases the power to the DAC so you can program and tune the DAC. I had the AVC volume decreased to -6 this whole time, well lady's and gentleman its time to increase the AVC volume to the maximum level.
 
-This has to be done with a direct connection to the QuadDAC, with a 24bit music player. I recommend using FLAC files. It will take about an hr or two of playing music on wired headphones for the DAC to acclimate to the new pristine DAC code, then the DAC will start to generate some crazy good audio, the longer you play music the superior the audio quality will get, tell the DAC has reached it's maximum velocity. You will need to lower your bass and treble and adjust it again. It is my professional opinion to stay on one flavor and v142.1 or higher after the DAC has fully acclimated. I would imagine this acclimation process happens by the manufacture, before the Hi-Res music player is ready to be sold.
+The acclimation process has to be done with a direct connection to the QuadDAC, with a 24bit Hi-Res music player using wired headphones. I recommend using FLAC files. It will take about an hr or two of playing music for the DAC to acclimate to the new pristine DAC code, then the DAC will start to generate some crazy good audio, the longer you play music the superior the audio quality will get, tell the DAC has reached it's maximum velocity. You will need to lower your bass and treble and adjust it again. It is my professional opinion to stay on one flavor and v142.1 or higher after the DAC has fully acclimated. I would imagine this acclimation process happens by the manufacture, before the Hi-Res music player is ready to be sold.
+
+Warning: Volume warning, please lower your volume first before playing music.
+
+What better time to release the best version, than on the morning of 2024!
+Enjoy everyone and happy 2024!!!
+
+Welcome to v142.1
+When programing a QuadDAC you do not have visual gauges to view to see if you have done something wrong, its all done by the sound of the DAC. For example if you have increased the amount of channels way to high or messed up on your programing code, then the DACs volume will be decreased or the music will not sound like its full of life. The only way to accomplish that, is to lower the AVC volume. In other words it decreases the power to the DAC so you can program and tune the DAC. I had the AVC volume decreased to -6 this whole time, well lady's and gentleman its time to increase the AVC volume to the maximum level.
+
+It will take about an hr or two of playing music for the DAC to acclimate to the new pristine DAC code, then the DAC will start to generate some crazy good audio, the longer you listen the superior the audio quality will get, tell the DAC has reached it's maximum velocity. Also you will need to lower your bass and treble and adjust it again. It is my professional opinion to stay on one flavor and v142.1 or higher after the DAC has acclimated.
 
 Warning: Volume warning, please lower your volume first before playing music.
 
@@ -164,7 +168,7 @@ v135.1
 
 Sometimes I get in this programing groove, today and tonight is one of them times. I did it again everyone, improved the QuadDAC. Guess what this whole time only two DACs were in True Native Mode. This is the only version that all four DACs are in True Native Mode. All this time I thought that v100.1 was 100% True Native Mode lol. Well I got there in the long run. Now the Lgv20 should have more than enough power to run up to 250 Ohm headphones maybe more. The audio is now perfectly balanced from left to right and oh so LOUD.
 
-I am going to just ramble, On the sdcard sometimes your files or folders will have a .0 suffix. I have never found out what is causing this, tell now. It was the mixer_paths file, also you know that issue that the Lgv20 had with screen retention? Yeah it was because the mixer_paths file was all messed up. You may have noticed that your screen look sharper, brighter and just looks better. That's me, I fixed the mixer_paths file it was totally messed up. It feels good that I have finaly fixed that issue with .0 suffix, that has been bugging me for 3 years now. lol 
+I am going to just ramble, On the sdcard sometimes your files or folders will have a .0 suffix. I have never found out what is causing this, tell now. It was the mixer_paths file, also you know that issue that the Lgv20 had with screen retention? Yeah it was because the mixer_paths file was all messed up. You may have noticed that your screen look sharper, brighter and just looks better. That's me, I fixed the mixer_paths file it was totally messed up. It feels good that I have finaly fixed that issue with .0 suffix, that has been bugging me for 3 years now. lol
 
 Well anyway I think this is it, 100% True Native Mode and 4608 stereo channels outputting at 32bit 352.8kHz on wired headphones, what more can I ask for? I accomplished what I set out to do, program the Lgv20 to have the highest audio quality on Earth for a phone. This finally answers my question when I first started this, what would the Saber ESS 9218 DAC sound like if programed for the highest possible audio quality? It was pure curiosity of that one question, is why I kept going.
 
@@ -202,30 +206,13 @@ When I say overclocked the DAC, I mean I didn’t change the clock speed, the de
 
 Enjoy everyone...
 
-Welcome to v132.1
-I did it again, I improved the audio quality. This is the code for the compander controls. As you know with computers 1 is on and 0 is off. This whole time I have been using number one to enable this, however this controls the amount of DACs that are enabled with compander controls. So then we need to use number 4 for all 4 DACs. As I understand, this will clean up the audio signal, make the audio sound OP. Also this version has the 4608 channels.
-
-When I say overclocked the DAC, I mean I didn’t change the clock speed, the definition is “run (the processor of one's computer) at a speed higher than that intended by the manufacturers.” I am making the QuadDAC output more channels than intended by the manufacturer about 4608 channels to be specific. The QuadDAC is running in True Native Mode it’s highest performance state, I say why not push the DAC to it’s maximum limits. I would say that this is the version that does exactly that.
-
-<ctl name="COMP1 Switch" value="4" />
-<ctl name="TX COMP1 Switch" value="4" />
-<ctl name="RX COMP1 Switch" value="4" />
-<ctl name="COMP2 Switch" value="4" />
-<ctl name="TX COMP2 Switch" value="4" />
-<ctl name="RX COMP2 Switch" value="4" />
-<ctl name="COMP7 Switch" value="4" />
-<ctl name="TX COMP7 Switch" value="4" />
-<ctl name="RX COMP7 Switch" value="4" />
-<ctl name="COMP8 Switch" value="4" />
-<ctl name="TX COMP8 Switch" value="4" />
-<ctl name="RX COMP8 Switch" value="4" />
-
-Enjoy everyone...
-
 Welcome to v131.1
 I have found out how to overclock the QuadDAC. When you get over 1000 channels they have to be perfectly balanced. The last version v130.2 was not perfectly balanced, it did not sound good to me. So I have deleted that version and have replaced v130.2 with v131.1. Welcome to the future of music… a total of 4608 stereo channels in this version.
 
 Enjoy everyone…
+
+Welcome to v130.2
+I am not happy with this version, let me make another one with more channels.
 
 Welcome to v129.1
 This is the one ladies and gentlemen, this is the version that everyone has been waiting for.
@@ -266,15 +253,16 @@ Enjoy everyone.
 Welcome to v125.1
 Warning: Extremely loud QuadDAC, please lower volume levels first before playing music.
 
-Are you y'all ready for this? I just had an aha moment, a computer reads code from top to bottom. So if the code is out of order it will mess everything up. Its so important when programing a DAC to have everything just right. Anyway I have improved the audio quality like 1000x over, by fixing the order of the code I wrote for the DAC. Oh and the volume levels were not changed, its just the 4 DACs performing at there maximum capability. 
+Are you y'all ready for this? I just had an aha moment, a computer reads code from top to bottom. So if the code is out of order it will mess everything up. Its so important when programing a DAC to have everything just right. Anyway I have improved the audio quality like 1000x over, by fixing the order of the code I wrote for the DAC. Oh and the volume levels were not changed, its just the 4 DACs performing at there maximum capability.
 
 Enjoy everyone…
 
 Welcome to v124.3
 Let’s try this again. Welcome to the future of music. I was able to get all 4 DACs working in this version. This is the only version that all 4 DACs are working and all eight channels. Everything was programed into the DAC to enable all 4 DACs but the on switch was never set for all 4 DACs. This version will blow your mind, the music is so crazy good.
 
- This is the DAC initialization code. With computers number 0 is off and 1 is on, however this code controls how many DACs are enabled. So for a QuadDAC you want to use 4 to enable all 4 and 0 = all 4 DACs off. In all the past versions I have been using number one to enable the DAC, and that's exactly what I was doing enabling one DAC. No where on the internet does it even remotely say, 4 to enable all 4 DACs please. I was simply curious what would happen. If my phone blows up I have a backup. lol
- 
+This is the DAC initialization code. With computers number 0 is off and 1 is on, however this code controls how many DACs are enabled. So for a QuadDAC you want to use 4 to enable all 4 and 0 = all 4 DACs off. In all the past versions I have been using number one to enable the DAC, and that's exactly what I was doing enabling one DAC. No where on the internet does it even remotely say, 4 to enable all 4 DACs please. I was simply curious what would happen. If my phone blows up I have a backup. lol
+
+
 <ctl name="SpkrLeft COMP Switch" value="4" />
 <ctl name="SpkrLeft BOOST Switch" value="4" />
 <ctl name="SpkrLeft VISENSE Switch" value="4" />
@@ -285,6 +273,7 @@ Let’s try this again. Welcome to the future of music. I was able to get all 4 
 <ctl name="SpkrRight VISENSE Switch" value="4" />
 <ctl name="SpkrRight WSA PA Mute" value="0" />
 <ctl name="SpkrRight SWR DAC_Port Switch" value="4" />
+
 
 Enjoy everyone and Happy New Year 2024 wow....
 
@@ -332,7 +321,7 @@ The Lgv20 was the first phone with the Android Nougat operating system, now its 
 
 I'm so in love with the sound of the QuadDAC. If you listen you can hear all 4 playing independently, that's how I programed the DAC. I could have had two on the left and two on right. But I think it sounds way cool having all 4 playing independently.
 
-Enjoy everyone. 
+Enjoy everyone.
 
 Welcome to v117.1
 I did it again, this time improved the audio quality on wired headphones and bluetooth.
@@ -344,6 +333,11 @@ One word, perfection.
 
 Enjoy.
 
+Welcome to v115.1
+I don’t know if you guys have noticed but the DAC volume levels sometimes fluctuate. I think I have fixed that issue in this version. The audio quality will be improved because the volume levels are fixed. This version may be the one.
+
+Enjoy everyone.
+
 Welcome to v114.6
 Yep did it again, this time its a major upgrade in audio quality and we have true stereo now. Both sides are evenly balanced, I made sure of that. This was an extremely tough puzzle to solve, but I got it.
 
@@ -354,17 +348,17 @@ Enjoy everyone.
 Welcome to v112.1
 Yep you guessed it, I did it again. This time it’s huge. I was never able to find the primary mid-range tell now. So if you hear sounds that you never heard before in your music, its because we have full mid-range now. I also tuned the DAC, It goes like this, bass is set at 51, mid-range is set at 53 and treble is set at 55 volume level. The treble should always be at the highest volume level and bass the lowest.
 
-After you flash this version power off your phone take your battery out and hold the power button down for 5 seconds. This will reset the DAC an prepare the DAC to go intro 100% True Native Mode, then assemble and power.
+After you flash this version power off your phone take your battery out and hold the power button down for 5 seconds. This will reset the DAC an prepare the DAC to go intro 100% True Native Mode, then assemble and power on.
 
-This may be the one, but as you all know I will keep looking tell I absolutely know for sure that this is the absolute maximum audio quality out of the Saber ESS DAC. 
+This may be the one, but as you all know I will keep looking tell I absolutely know for sure that this is the absolute maximum audio quality out of the Saber ESS DAC.
 
 Enjoy everyone.
 
 Welcome to v111.2
 Yep you guessed it, I improved the audio quality again. This time its huge, its funny how programing a DAC if you have one little number out of place it will throw the whole DAC out of rhythm. Everything and I mean everything has to be absolutely perfect to get the best quality audio. I wrote 576 lines of code for True Native Mode and each line needed two sets of numbers. I messed up on number 283, I put 238 simple mistake but the DAC didn’t like that, it caused the DAC to be out of sync. I fixed it in this version but all the past versions will have this bug. Now everyone will finally get to experience what a Saber ESS 9128 DAC sounds like when its programed for the absolute best audio quality.
 
- Enjoy everyone and happy holidays...
- 
+Enjoy everyone and happy holidays...
+
 Welcome to v110.3
 Well I did it again, improved the audio quality. This time I fixed an issue with the volume levels, the left channel was lower than the right. Also I fixed a few other things, the music will now blend together and if you listen, you will hear the music is extremely smooth and the bass, mid-range and treble all blends perfectly together. Also I increased the audio quality of the internal speaker 16bit and 24bit side.
 
@@ -375,7 +369,7 @@ Welcome to Lemon Drop Hi-Res with the highest audio quality for a phone in the w
 
 I did it again everyone, I improved the audio quality of the Lgv20. This time the bass, mid-range and treble are all working at 100% now. A computer reads code from top to bottom. I had a few lines of code in the mixer_paths file not in the correct order.
 
-Enjoy everyone.
+Enjoy everyone.​
 
 Welcome to v108.1
 Well I did it again, I doubled the audio quality from v107.1. I was thinking to myself what if I give the DAC more work, what would happen. Well turns out that doubled the audio quality. This time I do believe that this is going to be the absolute maximum audio quality I can get out of the DAC. But that wont stop me from trying.
@@ -409,7 +403,7 @@ Also to those that don't know, I have disabled high impedance on Lemon Drop Hi-R
 Enjoy everyone.
 
 Welcome to v103.1
-There are three different modes I can put the DAC into. I made three different versions for everyone to try out. All the different flavors have treble mid-range and bass programed into the DAC. For me, treble is my absolute favorite flavor. 
+There are three different modes I can put the DAC into. I made three different versions for everyone to try out. All the different flavors have treble mid-range and bass programed into the DAC. For me, treble is my absolute favorite flavor.
 
 1. Treble: If you love treble with perfectly balanced mid-range and bass. Then this flavor is for you.
 
@@ -448,7 +442,7 @@ Enjoy everyone.
 Welcome to v50.1
 We never had treble control of the DAC. It has always alluded me tell now. We now have full control over the DAC’s treble.
 
-Oh its so nice to hear ear piercing treble... 
+Oh its so nice to hear ear piercing treble...
 
 I am starting to fall in love with the sound of the DAC now.
 
@@ -489,7 +483,7 @@ The DAC must have been running about 75% in True Native Mode in v43.3. I fixed a
 Enjoy…
 
 Welcome to v43.3
-Well I did it again everyone, the DAC is now at 100% True Native Mode. I guess it was only at 50%, huh who would have thought it could produce higher quality audio than the previous versions. 
+Well I did it again everyone, the DAC is now at 100% True Native Mode. I guess it was only at 50%, huh who would have thought it could produce higher quality audio than the previous versions.
 
 Enjoy everyone…
 
@@ -499,7 +493,7 @@ On man everyone the DAC was only running at 50% in True Native Mode in v41.21. l
 Enjoy…
 
 Welcome to v41.21
-I did it everyone, True Native Mode 100%. I wish it was just a switch you could turn on, it took about 2000 lines of code to make this possible. I have never heard anything like this before in my whole life. 
+I did it everyone, True Native Mode 100%. I wish it was just a switch you could turn on, it took about 2000 lines of code to make this possible. I have never heard anything like this before in my whole life.
 
 Enjoy everyone…
 
@@ -515,7 +509,7 @@ Enjoy everyone.
 Welcome to v39.1
 Well I did it again ladies and gentlemen, I improved the audio again. This time it’s crazy good. I wanted to let everyone know that I am not going to tune the DAC anymore, it’s perfect the way it is and I like it. Some how the 24bit internal speaker and 24bit headphones are all connected together in True Native Mode. So if one is set to a lower quality then the DAC is not going to run at the max. I cranked up the internal speaker to the max and it improved the audio quality a huge amount!!!
 
-I only had the internal speaker running at 25% in True Native Mode. 
+I only had the internal speaker running at 25% in True Native Mode.
 The Saber ESS 9218 DAC is now running 100% in True Native Mode...
 
 Enjoy.
@@ -536,6 +530,7 @@ I almost had the absolute maximum audio quality out of the Saber ESS 9218 DAC. T
 Well this answers my original question when I first started this journey, how excellent can the Lgv20 sound if it was programed to output at the absolute maximum audio quality?
 
 This affects:
+
 Internal Speaker 24bit
 Wired Headphones 24bit
 Bluetooth 16bit and 24bit
@@ -564,7 +559,7 @@ Thinking about it, it's kinda funny all this time I thought I was going def in m
 Enjoy.
 
 v32.3
-I improved the audio even more. No just kidding, I am pretty sure this is the maximum. I just forgot to add a space in the mixer_paths file. I like my code to look nice with no mistakes or errors.
+I improved the audio even more. No just kidding I am pretty sure this is the maximum. I just forgot to add a space in the mixer_paths file. I like my code to look nice with no mistakes or errors.
 
 Enjoy.
 
@@ -582,14 +577,14 @@ I fixed True Native Mode on the Internal speaker 24bit side. Fixed the compander
 
 Note: Because the internal speaker 24bit side is running in True Native Mode now, make sure you lower your volume before playing music, don’t want to blow it out. There is a true native mode made for the internal speaker that’s the one I used. I found out how to put True Native Mode into overdrive, as you have found out from the last version.
 
-Also I lowered the volume just a little bit on the speaker phone when making calls. 
+Also I lowered the volume just a little bit on the speaker phone when making calls.
 
 Enjoy.
 
 Welcome to v31.1
 I was able to improve the audio quality even more, by enabling the compander on bluetooth 16bit and 24bit side and wired headphones 24bit and the internal speaker in 24bit mode. The DAC will clean up the audio signal, make everything sound OP.
 
-Who needs Viper4Android we have a Saber ESS 9218 DAC. 
+Who needs Viper4Android we have a Saber ESS 9218 DAC.
 Now the Lgv20 is a $2000 Hi-Res music player.
 
 Enjoy everyone.
@@ -617,9 +612,9 @@ Enjoy.
 Welcome to v29.4
 I was able to get 100% of the DAC into True Native Mode on the headphone and internal speaker 24bit, at the maximum upsample and maximum output sample rates.
 
-When you upgrade to this version, please lower your volume levels first before playing. I did not increase the volume of the DAC, it’s still at the same level. it’s the True Native Mode, it’s loud and sounds great. 
+When you upgrade to this version, please lower your volume levels first before playing. I did not increase the volume of the DAC, it’s still at the same level. it’s the True Native Mode, it’s loud and sounds great.
 
-This is absolutely the maximum audio quality the Saber ESS 9218 DAC can produce. 
+This is absolutely the maximum audio quality the Saber ESS 9218 DAC can produce.
 
 Enjoy everyone.
 
@@ -637,16 +632,21 @@ There is more happiness in giving than in receiving.
 
 As always, enjoy everyone…
 
+
 v26.4
-We are now directly connected to the ESS DAC in True Native Mode. The power is insane. 
+We are now directly connected to the ESS DAC in True Native Mode. The power is insane.
 
 There is only one small bug, you may have to unplug your headphones and plug them back in to get FM radio working. It's the kinda thing that sometimes it works and sometimes not. So it's hard to pinpoint the issue. But hey True Native Mode Huh!!!!
 
 I think what it is, when the DAC is in True Native Mode it forgets how to run the FM radio.
 
+I would say it took like about 600 lines of code, to get the DAC into True Native Mode.
+
+Please listen at a safe volume level...
+
 Enjoy everyone...
 
-V26.3
+v26.3
 Fixed FM radio, improved audio quality on bluetooth and wired headphones.
 
 Enjoy.
@@ -654,7 +654,7 @@ Enjoy.
 Welcome to v26.1
 I made some huge modifications in this version. I was able to make a direct connection to the ESS DAC in True Native Mode to bluetooth and wired headphones. I removed the LG loopback mixer paths, so everything will go directly though what I programed, not what the manufacture programed. Because this is such a huge change you will need to adjust your EQ settings.
 
-Because I made such a major modification, please let me know if you have any issues with this version. You can always downgrade or upgrade to any archived Lemon Drop Hi-Res version at anytime. 
+Because I made such a major modification, please let me know if you have any issues with this version. You can always downgrade or upgrade to any archived Lemon Drop Hi-Res version at anytime.
 
 Enjoy everyone.
 
@@ -663,35 +663,35 @@ I fixed the DAC, now it sounds like what we know and love. In fact I not only fi
 
 Also looks like not all three mics were enabled, I like having three mics on my phone, so I enabled all three.
 
-I will worry about changing the volume levels on the phone side after I get everything setup on the headphone side. 
+I will worry about changing the volume levels on the phone side after I get everything setup on the headphone side.
 
 Enjoy.
 
 v24.3
 Fixed the volume levels when making calls, on the handset and speaker phone. There was also some mistakes in the mixer_paths file that I fixed. This will improve the audio quality when making calls. Those mistakes may have also effected the performance of the phone.
 
-Fixing all the mistakes in the mixer_paths file changed the sound of the DAC. With this version you will need to increase your bass and treble to make up for the differences. But the audio does sound better to me. In Poweramp a bass level of 40% and treble level of 50% is about how it sounded in the last version. But no changes were made to the DAC to change the sound, must have been fixing the mistakes or errors in the mixer_paths file. 
+Fixing all the mistakes in the mixer_paths file changed the sound of the DAC. With this version you will need to increase your bass and treble to make up for the differences. But the audio does sound better to me. In Poweramp a bass level of 40% and treble level of 50% is about how it sounded in the last version. But no changes were made to the DAC to change the sound, must have been fixing the mistakes or errors in the mixer_paths file.
 
 I think I know what I did to change the DAC sound, I can fix this in the next version.
 
 Enjoy.
 
 Welcome to v24.1
-Improved audio quality on wired headphones 24bit. Someone set the output to 44.1kHz, it should be set at 176.4kHz. I don’t know who could have done that?
+Improved audio quality on wired headphones 24bit. Someone set the output to 44.1kHz, it should be 176.4kHz. I don’t know who could have done that?
 
 Enjoy everyone.
 
 Welcome to v23.1
 Tuned the DAC.
 
-I knew that v22.1 sounded great but I had no idea why? I discovered what was causing that effect, I like it. I took that effect and put it into overdrive. This version sounds breathtaking. 
+I knew that v22.1 sounded great but I had no idea why? I discovered what was causing that effect, I like it. I took that effect and put it into overdrive. This version sounds breathtaking.
 
 Enjoy everyone.
 
 Welcome to v22.1
 Warning
-Please always lower your volume levels before playing audio. 
-Please listen at a safe volume level.
+Please always lower your volume levels before playing audio.
+Please listen at a safe volume level.​
 
 What is True Native Mode?
 (1) The normal running mode of a computer, executing programs from its built-in instruction set.
@@ -700,7 +700,7 @@ What is True Native Mode?
 
 I have been busy trying to get the Saber ESS 9218 DAC into True Native Mode, I have successfully enabled True Native Mode on the DAC. The DAC has a blood-curdling amount of power now. I have removed high impedance mode, all modes are now high impedance at the same volume level. I never did find the B&O tuned DAC settings. So I tuned the DAC myself. I have the DAC running around in circles, there are so may mixer paths I programed it’s insane.
 
-Fixed the volume levels on the internal speaker. 
+Fixed the volume levels on the internal speaker.
 You can set the preamp in Poweramp back to 0 for the internal speaker.
 I finally found the treble mixer path, there is treble and bass EQ control now.
 
@@ -714,7 +714,7 @@ Bluetooth 24bit
 
 Wired Headphones 16bit
 
-Wired Headphones 24bit 
+Wired Headphones 24bit
 
 I had no idea that the DAC could produce this kinda audio, I never heard anything like this in my life.
 
@@ -744,6 +744,7 @@ Wired headphones 24bit
 input 44.1kHz - upsampled to 32bit 352.8kHz - output 24bit 176.4kHz
 
 Enjoy and Happy Holidays everyone.
+
 
 v20.6
 Tweaked the volume levels of the internal speaker.
@@ -790,7 +791,7 @@ Added EQ support to the internal speaker in 24bit mode.
 Enjoy.
 
 v19.1
-Put the internal speaker in true native mode on 24bit side. 
+Put the internal speaker in true native mode on 24bit side.
 Changed sample rate from 8kHz to 16kHz when talking on the phone with bluetooth headphones.
 Now days all bluetooth headphones should support 16kHz when talking on the phone.
 
@@ -823,8 +824,8 @@ I increased the 24bit audio quality about 10x on bluetooth and wired headphones.
 I believe this is the maximum audio quality that I can get out of the Saber ESS 9218 DAC. So this answers my question, how far can I increase the audio quality?
 
 So to recap I added 24bit and 16bit bluetooth mode, added upsampling on bluetooth and wired headphones, enabled all 4 DAC cpu's in 24bit mode and 2 DAC cpu's in 16bit mode, the DAC is now running in True Native Mode that’s like warp factor 9.99 and as every Trekkie knows, warp factor 9.99 is the maximum speed any starcraft can go.
- 
-Happy Holidays. 
+
+Happy Holidays.
 
 Welcome to v15.0
 Reprogrammed the mixer settings on the Lgv20, the EQ in Poweramp or other Music Players will now function, on the 16bit and 24bit headphones and bluetooth.
@@ -841,13 +842,13 @@ Who likes the perfect balance between deep bass and treble?
 Happy holidays...
 
 v12.3
-I think I fixed the FM radio not working on some Lgv20 phones. For some reason it was working on my H910 but not on some other phones. Now the FM radio starts a lot faster on my H910. 
+I think I fixed the FM radio not working on some Lgv20 phones. For some reason it was working on my H910 but not on some other phones. Now the FM radio starts a lot faster on my H910.
 
 Let me know if I fixed it, thanks.
 
 Enjoy.
 
-V12.2
+v12.2
 Not many changes in this version, I decreased the volume level of the speaker phone and the handset volume. Fixed a few things in the mixer file.
 
 Enjoy.
@@ -872,7 +873,7 @@ What is native mode?
 
 I found the Saber ESS 9218 DAC native mode and enabled it. This will affect all devices. So we know that native mode refers to the highest performance state. cool
 
-PS. I don’t think I found the B&O EQ settings in the last version, however this may be it. 
+PS. I don’t think I found the B&O EQ settings in the last version, however this may be it.
 
 Welcome to Native Mode.
 
@@ -899,6 +900,7 @@ PS. The Acoustic Resonance is my programing. :)
 
 Enjoy.
 
+
 v9.3
 I thought since I was messing around with the volume levels, it’s about time to increase the DAC.
 
@@ -921,7 +923,7 @@ Welcome to v9.0
 Lot’s of fixes in this version.
 Because I reprogrammed the mixer file in v8.0, I forgot to also change the phones mixer files to reflect the changes I made. This will improve audio quality all around.
 
-Found error in the factory default settings, AUDIO_FORMAT_PCM_24_BIT_OFFLOAD should read AUDIO_FORMAT_PCM_24_BIT_PACKED_OFFLOAD 
+Found error in the factory default settings, AUDIO_FORMAT_PCM_24_BIT_OFFLOAD should read AUDIO_FORMAT_PCM_24_BIT_PACKED_OFFLOAD
 You will need to disable DVC in Poweramp and enable it again when using 3.5mm just once.
 
 Fixed the deep buffers, aka HW bass.
@@ -948,6 +950,7 @@ input 44.1kHz - upsampled to 32bit 176.4kHz - output 24bit 44.1kHz
 3.5mm 24bit
 input 44.1kHz - upsampled to 32bit 352.8kHz - output 24bit 176.4kHz
 
+
 v7.2
 Lowered the volume level on the phone's internal speaker when playing music, I think it was set to high. It runs off of the 24bit side, I was afraid of blowing out my speaker with the DAC running at full power now.
 
@@ -959,7 +962,8 @@ Added bluetooth enhancements.
 
 Welcome to v7.0
 I have never had a song send chills up and down my spine before.
-I found out how to enable, full power mode on the Saber ESS 9218 DAC on the 24bit side. This will effect 3.5mm and bluetooth 24bit.
+I found out how to enable, full power mode on the Saber ESS 9218 DAC on the 24bit side.
+This will effect 3.5mm and bluetooth 24bit.
 I also found out how to put the 24bit side into low power mode when not being used, saving power. Previous versions the 24bit side was on all the time, may have been draining the battery.
 
 v6.5
@@ -1004,3 +1008,142 @@ V6.0
 I think everyone wants to get the best audio out of there smart phone, that’s probably why viper4android was made. I had to remove and add a lot of code to the mixer_paths_tasha.xml file. This may be a first in history, I was able to get 32bit 352.8kHz upsampling working on the Lgv20, 24bit audio side only. The audio file is sent to the ESS DAC at 44.1kHz and upsampled to 32bit 352.8kHz then sent out as 24bit 176.4kHz for clear and captivating High Fidelity. I also added the 32bit upsampling to 24bit bluetooth at 44.1kHz. I made sure to only use multiples of 44.1 to get the best High Fidelity audio. Music like you have never heard before…
 
 Lgv20 the Professional High Resolution Audio Player.
+
+
+v5.8
+Enabled hardware-Offloaded Audio Processing on 24bit bluetooth.
+This means that the ESS DAC is now processing all audio on 16bit, 24bit with or without a mic on bluetooth and 3.5mm.
+
+The ESS DAC is now running at it's utmost maximum limit.
+In other words, I am very happy with this version.
+
+This version is very stable.
+
+
+v5.7
+Added 16bit and 24bit bluetooth support for devices that do not have a built in mic.
+I do not have a 24bit bluetooth speaker with no mic, it should work. The 16bit bluetooth with no mic works.
+Fixed bad audio when talking over a bluetooth phone call.
+Improved the bluetooth audio on 16bit devices, I forgot to add a line of code.
+
+Version is very stable
+
+v5.6
+So I bought a new pair of aptx hd headphones and I was very disappointed with the audio quality from my Lgv20 over 24bit 44.1kHz bluetooth. So I set out to reprogram the Lgv20 to support aptx hd headphones. Two months later we have v5.6. With v5.6 I am happy to only use my aptx hd headphones I am no longer tethered to the phone via a 3.5mm cable. The audio quality over bluetooth is now amazing, almost as good as the 3.5mm well not quite as good but still 10 times better than it was. The ESS DAC is running the aptx hd headphones, that’s why is sounds they way it does.
+
+version is stable.
+
+v5.5
+This version has exceptional audio quality, out of all the past versions.
+The audio is louder, and sounds great.
+
+I removed the sample rates that are not being used by Lemon Drop Hi-Res.
+Improved audio on bluetooth and 3.5mm.
+Set your sample rate on your music player to 44.1kHz the DAC will do the rest.
+
+This version is stable.
+
+Enjoy everyone.
+
+
+
+v4.0
+Fixed 32bit 352.8kHz upsampling
+Changed sample rates multiples of 44.1kHz
+16bit 44.1kHz sampling
+24bit 176.4kHz sampling
+32bit 352.8kHz upsampling
+
+Set your Hi-Res music player to 24bit 44.1kHz or multiples of 44.1khz. The DAC will upsample 44.1kHz to 32bit 352.8kHz and output at 24bit 176.4kHz, audio like you have never heard before on 3.5mm.
+
+This is a stable version.
+
+Enjoy everyone.
+
+
+v3.2
+Fixed FM radio not working
+Fixed no sound with 3.5mm when not playing audio
+Enabled Hardware-Offloaded Audio Processing on 24bit bluetooth
+The DAC was in low power mode. I put it in normal mode. This greatly improved the audio all around.
+
+When connecting 24bit bluetooth headphones, wait for the 24bit message to go away, before playing music. We need to give the phone time to switch over to 24bit mode. The phone has never had a 24bit mode before, I programed it in. The bluetooth Aptx hd 24bit sounds good, sample rate is 44.1kHz.
+
+Other than that this version is stable.
+
+v3.1
+Added support for 24bit bluetooth headphones, they were just running off of the 16bit side. I didn't have time to add it in v3.0. Now they sound good. They are running at 24bit 44.1kHz now.
+
+v3.0
+Welcome to Lemon Drop Hi-Res
+16bit 44.1kHz sampling output
+24bit 192kHz sampling output
+32bit 384kHz upsampling
+High Impedance
+Hardware-Offloaded Audio Processing
+
+Set your Hi-Res music player to the sample rate of the audio file, and Lemon Drop Hi-Res will output at 24bit 192kHz on 3.5mm.
+
+Now the Lgv20, is an expensive Hi-Res Music Player
+
+Enjoy Everyone​
+
+
+v2.4
+Improved bluetooth and internal speaker audio quality. They were set at 8kHz I changed them to 44.1kHz.
+
+v2.3
+Enabled the deep buffers, aka HW DAC bass.
+
+v2.2
+I got all 4 DAC's working in this version. The audio is mind-blowing and very loud.
+
+v2.1
+One word, perfect.
+Fixed that Audio distortion issue. I increased the power to the DAC and lowered the master volume.
+
+v2.0
+Huge update v2.0
+
+Number of changes, I was able to get the True 44.1kHz working. It will only work when using a Hi-Res 24bit music player. We still have system wide 44.1kHz with 16bit apps and that’s all the apps except Poweramp and Neutron player.
+
+The Quad DAC was running in low power mode this whole time on the Lgv20, even on high impedance headphones. I was able to enable the other half of the Quad DAC so now all 4 DAC’s are working. This will use more power on the phone, but the audio is amazing.
+
+I got the headphones working like they should, no need for DAC FIX app anymore.
+
+Fixed the audio distortion issue.
+
+Fixed the FM radio.
+
+Removing all the previous versions, v2.0 is stable and amazing audio quality.
+
+v1.7
+I tuned the DAC and the LG mixer. Found the butter zone, no audio distortion.
+
+v1.6
+Skipping v1.6 due to a typo in the mixer_paths_tasha.xml file. If your on v1.6 please update or downgrade.
+
+v1.5
+Updated to Hi-Res Music Player Enabler v1.5
+Fixed the deep buffers over 3.5mm, this will produce a deep bass.
+
+v1.4
+Updated to Hi-Res Music Player Enabler v1.4
+I figured how to get true 44.1kHz working. This will improve audio over 3.5mm and bluetooth.
+
+v1.3
+Fixed true 44.1kHz on 3.5 mm
+All I can say is, wow...
+
+v1.2
+Updat4ed to Hi-Res Music Player Enabler v1.2
+Fixed bluetooth audio.
+
+v1.1
+Updated to Hi-Res Music Player Enabler v1.1
+Changed the boot logo.
+
+Some apps or music players may not work with the 3.5mm, because they do not enable the ESS DAC. To fix this, you can use an app to turn on the DAC, DAC FIX.
+
+v1.0
+Lemon Drop Hi-Res is stable now, So I changed the installers from Auto_Delboat to Lemon_Drop. There are two of the same versions now, one is for the H910-H915 and other is the universal installer.

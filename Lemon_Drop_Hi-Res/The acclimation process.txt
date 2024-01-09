@@ -2,4 +2,4 @@ The acclimation process has to be done with a direct connection to the QuadDAC, 
 
 Note: Your welcome to take your headphones off for the burn in process. I have no idea how long to do this for, this has never been done before in history to my knowledge. I guess tell the left channel sounds good. Also after the DAC is acclimated on v160.1, I do not recommend downgrading to any previous version of Lemon Drop Hi-Res. They all have that bug I was talking about.
 
-Update: I ran this acclimation process to a T for 4 hr's and now my Lgv20 sounds great, left channel working at 100%.
+Update: I ran this acclimation process to a T for 4 hr's and now my Lgv20 sounds great, left channel working at 100%. We have officially crossed over into the unknown, results may vary. lol

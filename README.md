@@ -9,7 +9,7 @@ A total of 98,304 channels in true stereo.<br>
 Please lower your volume levels before playing music.<br>
 Please listen at a safe volume level.<br>
 
-Lemon Drop Hi-Res development status: Active.<br>
+Lemon Drop Hi-Res development status: At long last, True Native Mode, awww the sweet sound of victory!!!<br>
 latest release: v160.1<br>  
 </p>
 

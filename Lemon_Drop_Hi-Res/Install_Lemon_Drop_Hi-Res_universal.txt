@@ -81,7 +81,7 @@ From GitHub
 4. Click Wipe
 5. Format Data Partition (this will erase your internal storage on the phone)
 6. Click back and reboot into recovery again. aka twrp
-7 Flash in this order
+7  Flash in this order
 A. Your version Of Stock Oreo 8.0 rom
 B. ezV2020 v1.0 Kernel
 C. Magisk v21.4

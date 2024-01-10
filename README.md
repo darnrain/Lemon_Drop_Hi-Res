@@ -2,7 +2,7 @@
 # Welcome to the future of music...<br>
 ## An addon for the Lgv20 running Stock Oreo
 ## That transforms Stock Oreo into the Lemon Drop Hi-Res Rom.
-# For rooted Lgv20 phones only.
+### For rooted Lgv20 phones only.
 The Lgv20 was first with the Android Nougat operating system.<br>
 Now it's the first running in True Native Mode.<br>
 With all 4 DACs enabled.<br>

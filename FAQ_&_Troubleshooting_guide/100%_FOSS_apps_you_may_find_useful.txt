@@ -68,4 +68,3 @@ https://f-droid.org/packages/org.adaway/
 Tea Timer
 Cuppa - Tea Timer
 https://f-droid.org/en/packages/com.nathanatos.Cuppa/
-

@@ -93,8 +93,8 @@ Notes:
 You can use an app like package manager to debloat more apps on your phone.
 https://f-droid.org/en/packages/com.smartpack.packagemanager/
 
-Good idea to reinstall your EFS to get cell signal working. Under How to Root the H910 and install Lemon Drop Hi-Res? You only need to do this once.
+Good idea to reinstall your EFS to get cell signal working. See How_to_Root_the_H910_and_install_Lemon_Drop_Hi-Res?.txt
+
+You can DeGoogle at any time, if you want. See I_want_to_DeGoogle_after_installing_Lemon_Drop_Hi-Res,_how_can_I_do_that?.txt
 
 The most stable version of Magisk is v24.3, you can go to Magisk 26.3 just don't use Magisk Hide with that version. Or you can stay on Magisk 21.4, Magisk v24.3 is the version I recommend.
-
-You can degoogle your phone at anytime under, I want to DeGoogle after installing Lemon Drop Hi-res, how can I do that?

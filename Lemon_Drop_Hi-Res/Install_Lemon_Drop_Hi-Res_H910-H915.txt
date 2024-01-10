@@ -68,8 +68,6 @@ Lemon_Drop_Hi-Res_vxxx.x_H910-H915_Lgv20_flashable.zip
 8. Flash Lemon_Drop_Hi-Res_vxxx.x_H910-H915_Lgv20_flashable.zip
 9. Reboot into system, run setup
 
-Number 9 applies for all updates, it's always a good idea to take battery out.
-
 Notes:
 You can use an app like package manager to debloat more apps on your phone.
 https://f-droid.org/en/packages/com.smartpack.packagemanager/

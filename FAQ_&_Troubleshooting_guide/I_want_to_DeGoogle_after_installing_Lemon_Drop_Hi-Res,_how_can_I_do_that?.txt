@@ -81,12 +81,12 @@ First disable Chrome and then download and install Chromium from f-droid.
 Download Termux and copy past this command:
 https://f-droid.org/en/packages/com.termux/
 
-su
-pm grant com.android.vending android.permission.FAKE_PACKAGE_SIGNATURE
+"su"
+"pm grant com.android.vending android.permission.FAKE_PACKAGE_SIGNATURE"
 
 Or use adb
 
-adb shell pm grant com.android.vending android.permission.FAKE_PACKAGE_SIGNATURE
+"adb shell pm grant com.android.vending android.permission.FAKE_PACKAGE_SIGNATURE"
 
 Then update Google WebView to the Latest version from the Aurora Store, restart your phone.
 

@@ -3,7 +3,7 @@ Using Viper4Android or JamesDSP on Lemon Drop Hi-Res, undoes all the magic the Q
 
 
 What sample rate should I set my music player at?
-You need to choose 24bit 44.1kHz as the source, that's how I programed the DAC, it takes 24bit 44.1kHz and upsamples the audio eight times to 32bit 352.8kHz. On wired headphones the output is 32bit 352.8kHz, all other devices the output is 44.1kHz 24bit or 16bit. If set to anything other than, 44.1kHz the audio does not get upsampled eight times or it does not multiply evenly into what the DAC is set at 352.8kHz. In other words, your not going to get the absolute best audio quality.
+You need to choose 24bit 44.1kHz as the source, that's how I programed the DAC, it takes a 44.1kHz audio signal and upsamples the audio eight times to 32bit 352.8kHz. On wired headphones the output is 32bit 352.8kHz, all other devices the output is 44.1kHz 24bit or 16bit. If set to anything other than, 44.1kHz the audio does not get upsampled eight times or it does not multiply evenly into 352.8kHz. In other words, your not going to get the absolute best audio quality.
 
 
 Is the LG Music player 24bit?
@@ -11,11 +11,11 @@ I did some testing and found out that the stock LG music player is in fact only 
 
 
 How can I tell if my music player is 24bit?
-You need to use Termux, first update Termux pkg up
+You need to use Termux, first update Termux "pkg up"
 
-Then install tsu, pkg install tsu
+Then install tsu, "pkg install tsu"
 
-Then run this command in Termux when playing music on wired headphones sudo dumpsys media.audio_flinger
+Then run this command in Termux when playing music on wired headphones "sudo dumpsys media.audio_flinger"
 
 look for a line that says AUDIO_FORMAT_PCM_24_BIT_PACKED If it says 16bit then nope.
 

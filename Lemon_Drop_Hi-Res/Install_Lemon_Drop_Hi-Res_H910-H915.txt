@@ -37,8 +37,8 @@ With the phone powered off, hold the down volume button and plug in usb to compu
 
 type on your computer:
 
-fastboot flash recovery twrp-3.7.0_9-0-h910.img
-fastbboot reboot
+"fastboot flash recovery twrp-3.7.0_9-0-h910.img"
+"fastbboot reboot"
 take battery out
 put back in
 go into twrp by doing a factory reset. How to factory reset the Lgv20

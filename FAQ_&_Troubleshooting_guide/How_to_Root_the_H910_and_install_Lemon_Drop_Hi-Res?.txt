@@ -29,8 +29,8 @@ https://twrp.me/Devices/LG/
 
 7. With the phone powered off, hold the down volume button and plug in usb to computer and phone.
 
-fastboot flash recovery twrp-3.7.0_9-0-h910.img
-fastbboot reboot
+"fastboot flash recovery twrp-3.7.0_9-0-h910.img"
+"fastbboot reboot"
 take battery out
 put back in
 go into twrp by doing a factory reset. How to factory reset the Lgv20
@@ -54,11 +54,11 @@ With the phone powered off, hold the down volume button and plug in usb to compu
 
 Note: COM6 is whatever com port that is listed on your files.
 
-fastboot flash fsg fsg_COM6
-fastboot flash misc misc_COM6
-fastboot flash modemst1 modemst1_COM6
-fastboot flash modemst2 modemst2_COM6
-fastboot reboot
+"fastboot flash fsg fsg_COM6"
+"fastboot flash misc misc_COM6"
+"fastboot flash modemst1 modemst1_COM6"
+"fastboot flash modemst2 modemst2_COM6"
+"fastboot reboot"
 
 
 End of root guide.

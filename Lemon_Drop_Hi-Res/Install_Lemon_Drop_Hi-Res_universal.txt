@@ -34,8 +34,8 @@ Note: twrp.img is your version of twrp image file name
 
 type on your computer:
 
-fastboot flash recovery twrp.img
-fastbboot reboot
+"fastboot flash recovery twrp.img"
+"fastbboot reboot"
 take battery out
 put back in
 go into twrp by doing a factory reset. How to factory reset the Lgv20

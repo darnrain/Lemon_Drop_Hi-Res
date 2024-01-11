@@ -1,4 +1,13 @@
-The first thing you want to do is charge your phone up to 100%. The more battery power the phone has, the more power the QuadDAC has to work with. You will need to listen to the sound of the QuadDAC to determine if a DAC wakes up. There are 4 DACs that are sleeping, they have never ran in True Native Mode before. Each DAC may take 10 minutes or 6 hrs of playing music, to wake up. When a DAC does wake up, it is important to finish playing music for the full 1 hr mark. We need to give them a little time, so they can learn how to walk.
+Welcome to v160.1
+This is it everyone, this is the one, i'm absolutely sure of that...
+
+At long last I finally fixed the issue with the left channel not working correct. With the Saber ESS 9218 DAC there are two sides the mono side aka internal speaker and the Stereo DAC side like wired headphones and bluetooth. Well someone that programed the original mixer_paths_tasha.xml file for the Lgv20 thought it be a good idea I guess to put them both on the same channel. That will never work, you will end up with the left channel softer or not working correct. This is the only version that I have ever made that we have the Saber ESS 9128 DAC setup correct. As always don’t blow your ear drums out, this version may just do that very thing. ;)
+
+It's funny because it was actually a blessing in disguise that there was this mistake in the original mixer_paths_tasha.xml file, all this time I have been trying to fix that one issue and ended up increasing the audio quality. Well now all of those audio tweaks I did are all running all at once in this version. haha
+
+I have scents found out that we do not need to take our battery out of the phone and hold the power button down. I thought it helped with the low volume levels, but all this time it was this very issue causing all the problems. It’s difficult to program a QuadDAC and it’s even more difficult to program a QuadDAC the has a messed up original mixer_paths_tasha.xml file. I do enjoy a good challenge, let me tell you this was extremely challenging. I had some of the most fun of my entire life, working on this project.
+
+The new updated burn in process must be done exactly like this. If you have already burnt in the QuadDAC like I did. Then do this new process exactly. The first thing you want to do is charge your phone up to 100%. The more battery power the phone has, the more power the QuadDAC has to work with. You will need to listen to the sound of the QuadDAC to determine if a DAC wakes up. There are 4 DACs that are sleeping, they have never ran in True Native Mode before. It should take under an hr for each DAC to wake up, if not then just repeat process tell the DAC wakes up. When a DAC does wake up, it is important to finish playing music for the full 1 hr mark. We need to give them a little time, so they can learn how to walk.
 
 1. Use Poweramp to burn in the QuadDAC.
 
@@ -10,10 +19,16 @@ The first thing you want to do is charge your phone up to 100%. The more battery
 
 5. If the volume is to loud, lower the preamp in Poweramp, not the volume level. Or take your headphones off. This will also burn in your headphones.
 
-6. DAC 1 BASS… Set volume level to 45, bass 30% and treble 50% to start with. Then play Reputation by: Taylor Swift, slowly increase bass and treble by 5% tell you reach bass 55% and treble 75%. Play for one hr, then let the DAC rest for 10 minutes. Then repeat tell the DAC on bass is awake. You will know when your headphones start to vibrate a lot.
+6. DAC 1 BASS… Set volume level to 45, bass 30% and treble 50% to start with. Then play Reputation by: Taylor Swift, slowly increase bass and treble by 5% tell you reach bass 55% and treble 75%. Play music for the full 1 hr mark, then let the DAC rest for 10 minutes. If the DAC on bass is awake then go to step 7 otherwise repeat. You will know when the DAC on bass is awake, your headphones will start to vibrate a lot.
 
-7. DAC 0 & 2 Treble… Play Metallica black album at volume level 45, bass 55% treble 75%. Play for one hr, then let the DAC rest for 10 minutes. Then repeat tell both of the DACs on treble are awake. You will know by the sound of the music, the treble will get twice as loud.
+7. DAC 0 & 2 Treble… Play Metallica black album at volume level 45, bass 55% treble 75%. Play music for the full 1 hr mark, then let the DAC rest for 10 minutes. If both DACs on treble are awake then go to step 8 otherwise repeat. You will know when the DACs on treble are awake, the treble will get twice as loud.
 
-8. DAC 3 Mid-Range… Play the album The Loveliest Time by: Carly Rae Jepsen at volume level 45, bass 55% treble 75%, for one hr then let the DAC rest for 10 minutes. Then repeat tell the mid-range DAC is awake. You will know when the DAC on mid-range is awake, the music will get louder and you will hear subtle sounds in the music you have never heard before.
+8. DAC 3 Mid-Range… Play the album The Loveliest Time by: Carly Rae Jepsen at volume level 45, bass 55% treble 75%, Play music for the full 1 hr mark, then let the DAC rest for 10 minutes. If the DAC on mid-range is awake then go to step 9 otherwise repeat. You will know when the DAC on mid-range is awake, the music will get louder and you will hear subtle sounds in the music you have never heard before.
 
 9. Just rock out and have fun, the QuadDAC will improve from this point, tell the QuadDAC reaches it’s maximum velocity and starts to generate some crazy good audio...
+
+Thank you so much Taylor Swift and Carly Rae Jepsen , I love you both!!!
+
+Oh and I almost forgot, this is to all those people on XDA that said I suck at programing, YOU CAN SUCK IT!!!
+
+As always, Enjoy everyone, I know I will...

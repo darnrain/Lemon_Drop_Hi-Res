@@ -1,0 +1,19 @@
+The first thing you want to do is charge your phone up to 100%. The more battery power the phone has, the more power the QuadDAC has to work with. This burn in process is going to take a lot of power to wake up the QuadDAC. You will need to listen to the sound of the QuadDAC to determine if a DAC wakes up. There are four DACs that are sleeping, they have never ran in True Native Mode before. We need to give them a little time, so they can learn how to walk.
+
+1. Use Poweramp to burn in the DAC.
+
+2. See Poweramp setup instructions see How_can_I_get_the_best_audio_out_of_the_Lemon_Drop_Hi-Res?.txt
+
+3. Use the Poweramp profile HIFIMAN RE600
+
+4. If the volume is to loud, lower the preamp in Poweramp, not the volume level. Or take your headphones off. This will also burn in your headphones.
+
+5. DAC 1 BASS… Set volume level to 45, bass 30% and treble 50% to start with. Then play Reputation by: Taylor Swift, slowly increase bass and treble by 5% tell you reach bass 55% and treble 75%. Play for one hr, then let the DAC rest for 10 minutes. Then repeat tell the DAC on bass is awake. You will know by the sound of the DAC.
+
+6. DAC 0 & 2 Treble… Play Metallica black album at volume level 45, bass 55% treble 75%. Play for one hr, then let the DAC rest for 10 minutes. Then repeat tell both of the DACs on treble are awake. You will know by the sound of the music, the treble will get twice as loud.
+
+7. DAC 3 Mid-Range… Play the album The Loveliest Time by: Carly Rae Jepsen at volume level 45, bass 55% treble 75%, for one hr then let the DAC rest for 10 minutes. Then repeat tell the mid-range DAC is awake. You will know when the DAC on mid-range is awake, the music will get louder and you will hear subtle sounds in the music you have never heard before.
+
+8. Just rock out and have fun, the QuadDAC will improve from this point, tell the QuadDAC reaches it’s maximum velocity and starts to generate some crazy good audio...
+
+Thank you so much Taylor Swift and Carly Rae Jepsen , I love you both!!!

@@ -1,4 +1,4 @@
-The first thing you want to do is charge your phone up to 100%. The more battery power the phone has, the more power the QuadDAC has to work with. You will need to listen to the sound of the QuadDAC to determine if a DAC wakes up. There are 4 DACs that are sleeping, they have never ran in True Native Mode before. It should take under an hr for each DAC to wake up, if not then just repeat process tell the DAC wakes up. When a DAC does wake up, it is important to finish playing music for the full 1 hr mark. We need to give them a little time, so they can learn how to walk.
+The first thing you want to do is charge your phone up to 100%. The more battery power the phone has, the more power the QuadDAC has to work with. The QuadDAC will run at maximum power when your phone is at 100% battery power. You will need to listen to the sound of the QuadDAC to determine if a DAC wakes up. There are 4 DACs that are sleeping, they have never ran in True Native Mode before. It should take under an hr for each DAC to wake up, if not then just repeat process tell the DAC wakes up. When a DAC does wake up, it is important to finish playing music for the full 1 hr mark. We need to give them a little time, so they can learn how to walk.
 
 1. Use Poweramp to burn in the QuadDAC.
 
@@ -10,10 +10,13 @@ The first thing you want to do is charge your phone up to 100%. The more battery
 
 5. If the volume is to loud, lower the preamp in Poweramp, not the volume level. Or take your headphones off. This will also burn in your headphones.
 
-6. DAC 1 BASS… Set volume level to 45, bass 30% and treble 50% to start with. Then play Reputation by: Taylor Swift, slowly increase bass and treble by 5% tell you reach bass 55% and treble 75%. Play music for the full 1 hr mark, then let the DAC rest for 10 minutes. If the DAC on bass is awake then go to step 7 otherwise repeat. You will know when the DAC on bass is awake, your headphones will start to vibrate a lot.
+6. Use the treble version of Lemon Drop Hi-Res to brun in the QuadDAC, then you can go back to bass+.
 
-7. DAC 0 & 2 Treble… Play Metallica black album at volume level 45, bass 55% treble 75%. Play music for the full 1 hr mark, then let the DAC rest for 10 minutes. If both DACs on treble are awake then go to step 8 otherwise repeat. You will know when the DACs on treble are awake, the treble will get twice as loud.
+7. DAC 1 BASS… Set volume level to 45, bass 30% and treble 50% to start with. Then play Reputation by: Taylor Swift, slowly increase bass and treble by 5% tell you reach bass 55% and treble 75%. Play music for the full 1 hr mark, then let the DAC rest for 10 minutes. If the DAC on bass is awake then go to step 8 otherwise repeat. You will know when the DAC on bass is awake, your headphones will start to vibrate a lot.
 
-8. DAC 3 Mid-Range… Play the album The Loveliest Time by: Carly Rae Jepsen at volume level 45, bass 55% treble 75%, Play music for the full 1 hr mark, then let the DAC rest for 10 minutes. If the DAC on mid-range is awake then go to step 9 otherwise repeat. You will know when the DAC on mid-range is awake, the music will get louder and you will hear subtle sounds in the music you have never heard before.
+8. DAC 0 & 2 Treble… Play Metallica black album at volume level 45, bass 55% treble 75%. Play music for the full 1 hr mark, then let the DAC rest for 10 minutes. If both DACs on treble are awake then go to step 9 otherwise repeat. You will know when the DACs on treble are awake, the treble will get twice as loud.
 
-9. Just rock out and have fun, the QuadDAC will improve from this point, tell the QuadDAC reaches it’s maximum velocity and starts to generate some crazy good audio...
+9. DAC 3 Mid-Range… Play the album The Loveliest Time by: Carly Rae Jepsen at volume level 45, bass 55% treble 75%, Play music for the full 1 hr mark, then let the DAC rest for 10 minutes. If the DAC on mid-range is awake then go to step 10 otherwise repeat. You will know when the DAC on mid-range is awake, the music will get louder and you will hear subtle sounds in the music you have never heard before.
+
+10. Just rock out and have fun, the QuadDAC will improve from this point, tell the QuadDAC reaches it’s maximum velocity and starts to generate some crazy good audio, I am not sure when that will happen. This burn in process normally takes place at the manufactures before the Hi-Res music player is ready for sale. To my knowledge this has never been done before in history, not by an individual. 
+

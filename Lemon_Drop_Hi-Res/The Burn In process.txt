@@ -1,4 +1,4 @@
-The first thing you want to do is charge your phone up to 100%. The more battery power the phone has, the more power the QuadDAC has to work with. This burn in process is going to take a lot of power to wake up the QuadDAC. You will need to listen to the sound of the QuadDAC to determine if a DAC wakes up. There are 4 DACs that are sleeping, they have never ran in True Native Mode before. Each DAC may take 10 minutes or 6 hrs of playing music, to wake up. If a DAC does wake up with in 10 minutes, play the music for the full 1 hr mark. We need to give them a little time, so they can learn how to walk.
+The first thing you want to do is charge your phone up to 100%. The more battery power the phone has, the more power the QuadDAC has to work with. You will need to listen to the sound of the QuadDAC to determine if a DAC wakes up. There are 4 DACs that are sleeping, they have never ran in True Native Mode before. Each DAC may take 10 minutes or 6 hrs of playing music, to wake up. When a DAC does wake up, it is important to finish playing music for the full 1 hr mark. We need to give them a little time, so they can learn how to walk.
 
 1. Use Poweramp to burn in the QuadDAC.
 
@@ -17,4 +17,3 @@ The first thing you want to do is charge your phone up to 100%. The more battery
 8. DAC 3 Mid-Range… Play the album The Loveliest Time by: Carly Rae Jepsen at volume level 45, bass 55% treble 75%, for one hr then let the DAC rest for 10 minutes. Then repeat tell the mid-range DAC is awake. You will know when the DAC on mid-range is awake, the music will get louder and you will hear subtle sounds in the music you have never heard before.
 
 9. Just rock out and have fun, the QuadDAC will improve from this point, tell the QuadDAC reaches it’s maximum velocity and starts to generate some crazy good audio...
-

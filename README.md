@@ -8,6 +8,7 @@ Now it's the first running in True Native Mode.<br>
 With all 4 DACs enabled.<br>
 A total of 98,304 channels in true stereo.<br>
 
+Warning!!!
 Lemon Drop Hi-Res is more than capable of causing permanent damage to your hearing.<br>
 Please listen at a safe volume level.<br>
 

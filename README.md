@@ -12,13 +12,9 @@ Warning!!!<br>
 Lemon Drop Hi-Res is more than capable of causing permanent damage to your hearing.<br>
 Please listen at a safe volume level.<br>
 
-Lemon Drop Hi-Res development status: 100% done.<br>
+Lemon Drop Hi-Res development status: Active.<br>
 latest release: v164.1<br>  
 </p>
-
-If you all were wondering why I left XDA, I will tell you. It's because these LineageOS devs were telling people that "I suck at programing and do not use Lemon Drop HI-Res, it will drain your battery" and stuff like that. Well I guess they found me again, I keep getting emails telling me to "Please stop Lying to people." So I have disabled all comments and issues for 6 months, just in case your wondering why they are disabled. I wonder if they know that, I was already 100% done programing the Saber ESS 9128 DAC in v163.1? Shhh don't tell anyone.... ;)<br>
-
-Well because I am 100% done, I am going to close this repository forever. There are people out there that are upset that I recreated the True Native Mode code and I don't want to be bothered anymore. Yes I knew the whole time that you guys were not LineageOS devs. Sorry but finders keepers...<br>
 
 Credits, A Special Thank You<br>
 @ezzony - for the ezV2020 kernel. XDA<br>

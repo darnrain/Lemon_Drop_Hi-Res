@@ -13,7 +13,9 @@ Lemon Drop Hi-Res is more than capable of causing permanent damage to your heari
 Please listen at a safe volume level.<br>
 
 Lemon Drop Hi-Res development status: Active.<br>
-latest release: v165.1<br>  
+latest release: v165.1<br>
+
+### Updates:
 
 If you all were wondering why I left XDA, I will tell you. It's because these LineageOS devs were telling people that "I suck at programing and do not use Lemon Drop HI-Res, it will drain your battery" and stuff like that. Well I guess they found me again, I keep getting emails telling me to "Please stop Lying to people." So I have disabled all comments and issues for 6 months, just in case your wondering why they are disabled.<br>
 

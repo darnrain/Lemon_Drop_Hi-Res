@@ -23,6 +23,8 @@ I was going to delete this repository, but then I thought to myself? Why should 
 
 PS. If you would have made the Lgv20 sound half way decent, I would have never looked into increasing the audio quality in the first place. Besides it’s not my fault, if i'm extremely proficient at programing a QuadDAC. If anything this is entirely your fault, for leaving your sh%t lying around, like your precious True Native Mode Code.<br>
 
+On a brigher note, we now have the absolute best audio quality out of any cell phone on Earth. I did it guys, I can't believe it!!!
+
 Credits, A Special Thank You<br>
 @ezzony - for the ezV2020 kernel. XDA<br>
 @askermk2000 - for the MK2000 kernel. XDA<br>

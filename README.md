@@ -17,7 +17,7 @@ latest release: v165.1<br>
 
 If you all were wondering why I left XDA, I will tell you. It's because these LineageOS devs were telling people that "I suck at programing and do not use Lemon Drop HI-Res, it will drain your battery" and stuff like that. Well I guess they found me again, I keep getting emails telling me to "Please stop Lying to people." So I have disabled all comments and issues for 6 months, just in case your wondering why they are disabled.<br>
 
-I was going to delete this repository, but then I thought to myself? Why should I have to quit working on what I LOVE doing, just because there are some people out there upset at me for recreating there True Native Mode code? Yes I knew the whole time that you guys were not LineageOS devs. Sorry but finders keepers...<br>
+I was going to delete this repository, but then I thought to myself? Why should I have to quit working on what I LOVE doing, just because there are some people out there upset at me for recreating there True Native Mode code? Yes I knew the whole time that you guys were not LineageOS devs, when you asked me where I got the ctl files from and what resource I was using? Sorry but finders keepers...<br>
 
 Credits, A Special Thank You<br>
 @ezzony - for the ezV2020 kernel. XDA<br>

@@ -12,7 +12,7 @@ Warning!!!<br>
 Lemon Drop Hi-Res is more than capable of causing permanent damage to your hearing.<br>
 Please listen at a safe volume level.<br>
 
-Lemon Drop Hi-Res development status: All done for now.<br>
+Lemon Drop Hi-Res development status: Active.<br>
 latest release: v164.1<br>  
 </p>
 

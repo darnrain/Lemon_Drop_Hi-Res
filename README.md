@@ -21,7 +21,7 @@ If you all were wondering why I left XDA, I will tell you. It's because these Li
 
 I was going to delete this repository, but then I thought to myself? Why should I have to quit working on what I LOVE doing, just because there are some people out there upset at me for recreating there True Native Mode code? Yes I knew the whole time that you guys were not LineageOS devs, when you asked me where I got the ctl files from and what resource I was using? Sorry but finders keepers...<br>
 
-PS. If you would have made the Lgv20 sound half way decent, I would have never looked into increasing the audio quality in the first place. Besides it’s not my fault, if i'm extremely proficient at programing a QuadDAC. If anything this is entirely your fault, for leaving your sh%t lying around, like your True Native Mode Code.<br>
+PS. If you would have made the Lgv20 sound half way decent, I would have never looked into increasing the audio quality in the first place. Besides it’s not my fault, if i'm extremely proficient at programing a QuadDAC. If anything this is entirely your fault, for leaving your sh%t lying around, like your 0.5% True Native Mode Code.<br>
 
 Credits, A Special Thank You<br>
 @ezzony - for the ezV2020 kernel. XDA<br>

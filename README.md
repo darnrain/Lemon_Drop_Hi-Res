@@ -17,7 +17,7 @@ latest release: v165.1<br>
 
 ### Updates:
 
-If you all were wondering why I left XDA, I will tell you. It's because these LineageOS devs were telling people that "I suck at programing and do not use Lemon Drop HI-Res, it will drain your battery" and stuff like that. Well I guess they found me again, I keep getting emails telling me to "Please stop Lying to people.". So I just wanted to let everyone know that I am being harassed, because I did the impossible by programing a QuadDAC for True Native Mode. I had no idea I was that good at programing that people would get upset.<br>
+If you all were wondering why I left XDA, I will tell you. It's because these LineageOS devs were telling people that "I suck at programing and do not use Lemon Drop HI-Res, it will drain your battery" and stuff like that. Well I guess they found me again, I keep getting emails telling me to "Please stop Lying to people.". So I just wanted to let everyone know that I am being harassed, because I did the impossible by programing a QuadDAC for True Native Mode. I had no idea I was that good at programing that people would get upset. If anything it's there fault for leaving the True Native Mode code just lying around, out in the open.<br>
 
 I was going to stop working on this project, but then I thought to myself? Why should I have to quit working on what I LOVE doing, just because there are some people out there upset at me for recreating there True Native Mode code? Yes I knew the whole time that you guys were not LineageOS devs, when you asked me where I got the ctl files from and what resource I was using? Sorry but finders keepers...<br>
 

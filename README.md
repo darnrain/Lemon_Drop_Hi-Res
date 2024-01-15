@@ -15,10 +15,10 @@ Please listen at a safe volume level.<br>
 Lemon Drop Hi-Res development status: Active.<br>
 latest release: v165.1<br>
 
-### Updates:
+### Introduction:
 If you all were wondering why I left XDA, I will tell you. It's because these LineageOS devs were telling people that "I suck at programing and do not use Lemon Drop HI-Res, it will drain your battery" and stuff like that. Well I guess they found me again, I keep getting emails from comments on GitHub, telling me to "Please stop lying to people.". What does that even mean? They could be a little more descriptive in what they are attempting to convey. Why would I lie to people about programing a QuadDAC? The 8,000 lines of code that I programed, is in the mixer_paths_tasha.xml.modded file for everyone to see. Who knows, maybe they genuinely think I am trying to cause harm to peoples phones? That is absolutely not true. I just wanted to have a little fun programing a QuadDAC and increasing the audio quality on my Lgv20. After thinking about that last statement, that does sound kinda odd. I mean who even attempts to program a QuadDAC in there spare time? Furthermore is it even possible to program the QuadDAC on the Lgv20? Haha the answer is yes, if your good at programing code, math and you enjoy a good challenge. My 34 years of computer experience helps also. I suppose some people do have a hidden agenda, mine would be, I wanted to show off my advanced computer skills to the entire world.<br>
 
-So I wanted to let everyone know that I am being harassed. I had no idea I was that good at programing, that I would get harassed. ;) So that is the reason why you can not open an issue, or leave a comment on my projects. It only takes a few bad apples to spoil the entire batch.<br>
+As a result of the harassment, no one can open an issue or leave a comment on my projects. It only takes a few bad apples to spoil the entire batch.<br>
 
 Credits, A Special Thank You<br>
 @ezzony - for the ezV2020 kernel. XDA<br>

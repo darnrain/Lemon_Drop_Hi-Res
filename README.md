@@ -12,8 +12,8 @@ Warning!!!<br>
 Lemon Drop Hi-Res is more than capable of causing permanent damage to your hearing.<br>
 Please listen at a safe volume level.<br>
 
-Lemon Drop Hi-Res development status: Active.<br>
-latest release: v165.1<br>
+Lemon Drop Hi-Res development status: Taking a break, v168.1 is unequivocally perfect.<br>
+latest release: v168.1<br>
 
 ### Introduction:
 If you all were wondering why I left XDA, I will tell you. It's because these LineageOS devs were telling people that "I suck at programing and do not use Lemon Drop HI-Res, it will drain your battery" and stuff like that. Well I guess they found me again, I keep getting emails from comments on GitHub, telling me to "Please stop lying to people.". What does that even mean? They could be a little more descriptive in what they are attempting to convey. Why would I lie to people about programing a QuadDAC? The 8,000 lines of code that I programed, is in the mixer_paths_tasha.xml.modded file for everyone to see. Who knows, maybe they genuinely think I am trying to cause harm to peoples phones? That is absolutely not true. I just wanted to have a little fun programing a QuadDAC and increasing the audio quality on my Lgv20. After thinking about that last statement, that does sound kinda odd. I mean who even attempts to program a QuadDAC in there spare time? Furthermore is it even possible to program the QuadDAC on the Lgv20? Haha the answer is yes, if your good at programing code, math and you enjoy a good challenge. My 34 years of computer experience helps also. I suppose some people do have a hidden agenda, mine would be, I wanted to show off my advanced computer skills to the entire world.<br>

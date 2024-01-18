@@ -20,6 +20,8 @@ Well I guess they found me again, I keep getting emails from comments on GitHub,
 
 As of a direct result of the harassment from the LineageOS devs, no one can open an issue or leave a comment on any of my projects on GitHub. It's fascinating to me how one little decision in life can and in some cases will have an extremely large outcome. I'm absolutely positive that True Native Mode would not be working yet. I need 200% uninterrupted concentration, to program the QuadDAC. I cant have people telling me to stop liying, when I am on the verge of one the greatest breakthroughs in the entire history of mankind.<br>
 
+For me the LineageOS devs incident is just water under the bridge. If anything they helped, by forcing me to move to GitHub where I can get 200% uninterrupted concentration to program the QuadDAC.<br>
+
 Credits, A Special Thank You<br>
 @ezzony - for the ezV2020 kernel. XDA<br>
 @askermk2000 - for the MK2000 kernel. XDA<br>

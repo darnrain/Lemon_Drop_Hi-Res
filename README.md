@@ -14,7 +14,7 @@ Lemon Drop Hi-Res development status: Active.<br>
 latest release: v169.1<br>
 
 ### Introduction:
-First off I want to say, I try to keep my writing to rated PG.
+First off I want to say, I try to keep my writing to rated PG. (pretty good) Also I do have a very good sense of humour. I never understood why some people are serious all the time, life's too short for that.<br>
 
 If you all were wondering why I left XDA, I will tell you. It's because these LineageOS devs were telling people that "I suck at programing and do not use Lemon Drop HI-Res, it will drain your battery", saying everything they can to try and discourage people from using Lemon Drop Hi-Res. It actually doesn't bother me one iota, if not a single person out there wants to use Lemon Drop Hi-Res, I designed and created Lemon Drop Hi-Res entirely for me and me alone. I like to share, that's just who I am. I absolutely love my Lgv20 and I don't plan on ever buying a new phone ever! The Lgv20 has everything and more I could ever ask for in a cell phone, not to mention a removable battery. If the Lgv20 did not have a removable battery, then I would have never created Lemon Drop Hi-Res. Why spend over 3+ years on a cell phone that has a non-replaceable battery? By the time I was done developing and creating Lemon Drop Hi-Res, most everyones battery would be ready to be replaced about the time I was done.<br>
 

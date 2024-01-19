@@ -22,7 +22,7 @@ Well I guess they found me again, I keep getting emails from comments on GitHub,
 
 As of a direct result of the harassment from the LineageOS devs, no one can open an issue or leave a comment on any of my projects on GitHub. It's fascinating to me how one little decision in life can and in some cases will have an extremely large outcome. I'm absolutely positive that True Native Mode would not be working yet. I need 200% uninterrupted concentration, to program the QuadDAC. I cant have people telling me to stop liying, when I am on the verge of one the greatest breakthroughs in the entire history of mankind.<br>
 
-It's funny, but the LineageOS devs reminds me exactly of when your watching a movie and your just getting lost in the movie, then all of a suddenly out of nowhere, this HUGE fly shows up and wants to fly right in front of your face. Where's my fly swatter for LineageOS devs. lol<br>
+It's funny, but the LineageOS devs reminds me exactly of when your watching a movie and your just getting lost in the movie, then all of a suddenly out of nowhere, this HUGE fly shows up and wants to fly right in front of your face. Where's my certified, LineageOS dev fly swatter. lol<br>
 
 Credits, A Special Thank You<br>
 @ezzony - for the ezV2020 kernel. XDA<br>

@@ -1,0 +1,21 @@
+Charge your phone up to 100%. You will need to listen to the sound of the QuadDAC to determine if a DAC wakes up. There are 4 DACs that are sleeping, they have never been pushed this hard. The QuadDAC has never ran in True Native Mode before. It should take under an hr for each DAC to wake up. I programed all 4 DACs to produce bass, treble and mid-range. The volume level will get four times louder when all 4 DACs are awake.
+
+1. Use Poweramp to burn in the QuadDAC.
+
+2. See Poweramp setup instructions see How_can_I_get_the_best_audio_out_of_the_Lemon_Drop_Hi-Res?.txt
+
+3. Use the Poweramp profile HIFIMAN RE600
+
+4. You must use wired headphones, 3.5 mm jack. 
+
+5. If the volume is to loud, lower the preamp in Poweramp, not the volume level. Or take your headphones off. This will also burn in your headphones.
+
+6. Use the treble version of Lemon Drop Hi-Res to burn in the QuadDAC, then you can go back to bass+.
+
+7. Bass, Set volume level to 45, bass 30% and treble 50% to start with. Then play music with a lot of bass, slowly increase bass and treble by 5% tell you reach bass 55% and treble 75%. Play music for the full 1 hr mark, then let the DAC rest for 10 minutes. If the music is louder than go to step 8.
+
+8. Treble, Set volume level to 45, bass 55% treble 75%. Then play music with a lot of treble for the full 1 hr mark, then let the DAC rest for 10 minutes. If the music is louder than go to step 9.
+
+9. Mid-Range, Set volume level to 45, bass 55% treble 75%., Then play any kind of music for the full 1 hr mark, then let the DAC rest for 10 minutes. If the music is louder than go to step 10.
+
+10. Just rock out and adjust the profile, volume, bass and treble that best suits you.

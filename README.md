@@ -10,7 +10,7 @@ A total of 196,608 channels in true stereo.<br>
 
 Please listen at a safe volume level.<br>
 
-Lemon Drop Hi-Res development status: Active.<br>
+Lemon Drop Hi-Res development status: Active. v172.4 is the first ever stable release.<br>
 latest release: v172.4<br>
 
 ### Introduction:

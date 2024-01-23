@@ -11,7 +11,7 @@ A total of 196,608 channels in true stereo.<br>
 Please listen at a safe volume level.<br>
 
 Lemon Drop Hi-Res development status: Active.<br>
-latest release: v172.4<br>
+latest release: v173.1<br>
 
 ### Introduction:
 First off I want to say, I try to keep my writing to rated PG. (pretty good) Also I do have a very good sense of humour. I never understood why some people are serious all the time, life's too short for that.<br>

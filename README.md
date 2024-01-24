@@ -6,8 +6,8 @@
 The Lgv20 was first with the Android Nougat operating system.<br>
 Now it's the first running in True Native Mode.<br>
 With all 4 DACs enabled.<br>
-Outputting at 1024bit 2822.4kHz<br>
-
+Outputting at 1024bit 2822.4kHz with a total amount of 196608 channels.<br>
+ 
 Please listen at a safe volume level.<br>
 
 Lemon Drop Hi-Res development status: Active.<br>

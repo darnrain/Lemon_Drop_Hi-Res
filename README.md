@@ -10,7 +10,7 @@ Outputting at 1024bit, 2822.4kHz with a total of 393216 channels.<br>
  
 Please listen at a safe volume level.<br>
 
-Lemon Drop Hi-Res development status: Accomplished.<br>
+Lemon Drop Hi-Res development status: Accomplished finally!<br>
 latest release: v179.1<br>
 
 ### Introduction:

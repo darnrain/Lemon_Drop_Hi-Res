@@ -26,6 +26,12 @@ As of a direct result of the harassment from the LineageOS devs, no one can open
 
 It's funny, but the LineageOS devs reminds me exactly of when your watching a movie and your just getting lost in the movie, then all of a suddenly out of nowhere, this HUGE fly shows up and wants to fly right in front of your face. Where's my certified, LineageOS dev fly swatter. lol<br>
 
+### My music does not sound Overpowered sometimes?
+Can be due to the following:<br>
+1. The QuadDAC was not able to acquire the precise Ohm rating of your headphones, to fix unplug your headphones and plug them back in.<br>
+2. The phone is in low power mode.<br>
+3. Your battery is to low, it is undetermined on how much battery power we must have. I would say at least over 15%.<br>
+
 Credits, A Special Thank You<br>
 @ezzony - for the ezV2020 kernel. XDA<br>
 @askermk2000 - for the MK2000 kernel. XDA<br>

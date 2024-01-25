@@ -32,6 +32,14 @@ Can be due to the following:<br>
 2. The phone is in low power mode.<br>
 3. Your battery is to low, it is undetermined on how much battery power we must have. I would say at least over 15%.<br>
 
+### What is True Native Mode on a computer?<br>
+
+"(1) The normal running mode of a computer, executing programs from its built-in instruction set. Contrast with emulation mode. See native language. (2) The highest performance state of a computer."<br>
+
+### What is True Native Mode on the Saber ESS 9218 DAC?<br>
+
+I created all 4632 lines of the True Native Mode v3.0 code myself, with the help of sed, awk, echo, nano and l3afpad, there are 786 mixer paths for True Native Mode that places the QuadDAC into it's highest performance state. The very essence of True Native Mode it's self allows you to overclock the QuadDAC, 1024bit, 2822.4kHz with a total of 393216 channels.<br>
+
 Credits, A Special Thank You<br>
 @ezzony - for the ezV2020 kernel. XDA<br>
 @askermk2000 - for the MK2000 kernel. XDA<br>

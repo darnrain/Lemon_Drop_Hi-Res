@@ -10,8 +10,8 @@ Outputting at 1152bit, 3175.2kHz and 442368 channels.<br>
  
 Please listen at a safe volume level.<br>
 
-Lemon Drop Hi-Res development status: Did I reach the absolute maximum audio quality, nope. Active.<br>
-latest release: v179.1<br>
+Lemon Drop Hi-Res development status: Active.<br>
+latest release: v180.1<br>
 
 ### Introduction:
 First off I want to say, I try to keep my writing to rated PG. (pretty good) Also I do have a very good sense of humour. I never understood why some people are serious all the time, life's too short for that.<br>

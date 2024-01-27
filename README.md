@@ -13,7 +13,7 @@ Please listen at a safe volume level.<br>
 Lemon Drop Hi-Res development status: Active.<br>
 latest release: v184.1<br>
 
-In my professional opinion, only use v184.1 or higher. I do not know what the repercussions are if someone decides to use one of the previous versions for an extended period of time. Keep in mind I was attempting to overclock the QuadDAC to the maximum, without success. If someone does decide to use a previous version, for an extended period of time and your QuadDAC stops working, don't blame me. This is your official warning!<br>
+In my professional opinion, I only recommend using v184.1 or higher. It's the best version anyway, all the past versions are mono.<br>
 
 ### Introduction:
 First off I want to say, I try to keep my writing to rated PG. (pretty good) Also I do have a very good sense of humour. I never understood why some people are serious all the time, life's too short for that.<br>

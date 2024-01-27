@@ -6,12 +6,14 @@
 The Lgv20 was first with the Android Nougat operating system.<br>
 Now it's the first running in True Native Mode.<br>
 With all 4 DACs enabled.<br>
-Outputting at 4096bit, 11289.6kHz and 786432 channels.<br>
+Outputting at 2048bit, 5644.8kHz and 786432 channels.<br>
  
 Please listen at a safe volume level.<br>
 
 Lemon Drop Hi-Res development status: Active.<br>
-latest release: v183.1<br>
+latest release: v184.1<br>
+
+I recommend everyone use v184.1 or higher. I do not know what the repercussions are if someone decides to run one of the past versions for an extended period of time. So if you decide to run a past version, for an extended period of time and your QuadDAC stops working, don't blame me. This is your first and final warning!<br>
 
 ### Introduction:
 First off I want to say, I try to keep my writing to rated PG. (pretty good) Also I do have a very good sense of humour. I never understood why some people are serious all the time, life's too short for that.<br>

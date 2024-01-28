@@ -13,7 +13,7 @@ Please listen at a safe volume level.<br>
 Lemon Drop Hi-Res development status: Active.<br>
 latest release: v184.1<br>
 
-In my professional opinion, I only recommend using v184.1 or higher. If you keep trying, odds are eventually you will succeed.<br>
+I only recommend using v184.1 or higher. Nope, I still don't have everthing setup correct, I am working on it.<br>
 
 “I have not failed. I've just found 10,000 ways that won't work.”<br>
 — Thomas Edison<br>

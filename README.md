@@ -15,6 +15,9 @@ latest release: v184.1<br>
 
 In my professional opinion, I only recommend using v184.1 or higher. If you keep trying odds are, you will eventually succeed.<br>
 
+"Nothing is impossible. The word itself says: 'I'm possible!'" <br>
+—Audrey Hepburn<br>
+
 ### Introduction:
 First off I want to say, I try to keep my writing to rated PG. (pretty good) Also I do have a very good sense of humour. I never understood why some people are serious all the time, life's too short for that.<br>
 

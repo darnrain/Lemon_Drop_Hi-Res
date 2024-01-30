@@ -10,8 +10,13 @@ Set at: 256bit & 705.6kHz & 24576 channels.<br>
 
 Please listen at a safe volume level.<br>
 
-Lemon Drop Hi-Res development status: Active.<br>
-latest release: v185.9<br>
+Lemon Drop Hi-Res development stage: Number three.<br>
+
+1. You need to program the QuadDAC.<br>
+2. You need to setup the QuadDAC.<br>
+3. You need to check for errors or typos in your code.<br>
+
+latest release: v186.1<br>
 
 I recommend only using v185.9 or higher.<br>
 

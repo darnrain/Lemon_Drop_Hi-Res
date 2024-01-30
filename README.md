@@ -15,6 +15,7 @@ Lemon Drop Hi-Res development stage: Number three.<br>
 1. You need to program the QuadDAC.<br>
 2. You need to setup the QuadDAC.<br>
 3. You need to check for errors or typos in your code.<br>
+4. Finished<br>
 
 latest release: v187.2<br>
 

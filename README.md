@@ -17,7 +17,7 @@ Lemon Drop Hi-Res development stage: Number three.<br>
 3. You need to check for errors or typos in your code.<br>
 4. Finished.<br>
 
-latest release: v189.1<br>
+latest release: v190.1<br>
 
 I recommend only using v185.9 or higher.<br>
 

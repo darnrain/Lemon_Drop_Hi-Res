@@ -4,7 +4,7 @@
 ## That transforms Stock Oreo into the Lemon Drop Hi-Res Rom.
 ### For rooted Lgv20 phones only.
 
-Welcome to the future of music...<br>
+### Welcome to the future of music...<br>
 The worlds first 24bit QuadDAC.<br>
 Set at: 384bit, 705.6kHz, 24576 channels.<br>
 Running in True Native Mode.<br>

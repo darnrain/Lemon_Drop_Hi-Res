@@ -3,11 +3,16 @@
 ## An addon for the Lgv20 running Stock Oreo
 ## That transforms Stock Oreo into the Lemon Drop Hi-Res Rom.
 ### For rooted Lgv20 phones only.
-The Lgv20 was first with the Android Nougat operating system.<br>
-Now it's the first running in True Native Mode.<br>
-With all 4 DACs enabled.<br>
+
+Welcome to the future of music...<br>
 The worlds first 24bit QuadDAC.<br>
 Set at: 384bit, 705.6kHz, 24576 channels.<br>
+Running in True Native Mode.<br>
+With all 4 DACs enabled.<br>
+DAC 0 = low-range<br>
+DAC 1 = mid-range<br>
+DAC 2 = high-range<br>
+DAC 3 = offload<br>
 
 Please listen at a safe volume level.<br>
 

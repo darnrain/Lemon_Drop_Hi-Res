@@ -23,7 +23,7 @@ Lemon Drop Hi-Res development stage: Number three.<br>
 3. You need to check for errors or typos in your code.<br>
 4. Finished.<br>
 
-latest release: v192.1<br>
+latest release: v193.1<br>
 
 I recommend only using the latest version. I'm making enormous modifications to the operation of the QuadDAC. Lemon Drop Hi-Res is very much in the development stage.<br>
 

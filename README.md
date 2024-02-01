@@ -8,7 +8,7 @@
 The worlds first 24bit QuadDAC.<br>
 Set at: 384bit, 705.6kHz, 24576 channels.<br>
 Running in True Native Mode.<br>
-With all 4 DACs enabled.<br>
+With all 4 DACs running independently.<br>
 DAC 0 = low-range<br>
 DAC 1 = mid-range<br>
 DAC 2 = high-range<br>

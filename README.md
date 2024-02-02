@@ -5,7 +5,7 @@
 ### For rooted Lgv20 phones only.
 
 ### Welcome to the future of music...<br>
-The worlds first 24bit QuadDAC in True Stereo!
+The worlds first 24bit QuadDAC in True Stereo!<br>
 Set at: 384bit, 705.6kHz, 24576 channels.<br>
 Running in True Native Mode.<br>
 With all 4 DACs running independently.<br>

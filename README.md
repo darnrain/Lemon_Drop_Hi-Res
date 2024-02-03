@@ -43,7 +43,7 @@ Can be due to the following:<br>
 
 ### What is True Native Mode on the Saber ESS 9218 DAC?<br>
 
-I created all 4632 lines of v3.0 True Native Mode code myself, with the help of sed, awk, echo, nano and l3afpad. True Native Mode it's self places the QuadDAC into it's highest performance state. Not only does it place the QuadDAC in it's highest performance state, you also have root access to program the QuadDAC, anything you can imagine. This is what I imagined: The worlds first 24bit QuadDAC running at 384bit, 705.6kHz with 24576 channels. The very essence of True Native Mode it's self allows the QuadDAC, to have more than two channels for stereo. The more channels, the better the audio sounds to us.<br>
+I created all 4632 lines of v3.0 True Native Mode code myself, with the help of sed, awk, echo, nano and l3afpad. True Native Mode it's self places the QuadDAC into it's highest performance state. Not only does it place the QuadDAC in it's highest performance state, you also have root access to program the QuadDAC, anything you can imagine. This is what I imagined: The worlds first 24/32bit QuadDAC in True Stereo! The very essence of True Native Mode it's self allows the QuadDAC, to have more than two channels for stereo. The more channels, the better the audio sounds to us.<br>
 
 Credits, A Special Thank You<br>
 @ezzony - for the ezV2020 kernel. XDA<br>

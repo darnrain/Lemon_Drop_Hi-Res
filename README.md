@@ -5,7 +5,7 @@
 ### For rooted Lgv20 phones only.
 
 ### Welcome to the future of music...<br>
-Welcome to the worlds first 24/32bit QuadDAC in True Stereo!<br>
+The worlds first 24/32bit QuadDAC in True Stereo!<br>
 Running in True Native Mode.<br>
 With all 4 DACs running independently.<br>
 DAC 0 = low-range<br>

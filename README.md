@@ -1,10 +1,10 @@
 ![banner](https://github.com/darnrain/Lemon_Drop_Hi-Res/assets/60840489/1fd80758-cdef-4be1-afb5-1d6666d383a0)
-# Welcome to the future of music...<br>
 ## An addon for the Lgv20 running Stock Oreo
 ## That transforms Stock Oreo into the Lemon Drop Hi-Res Rom.
 ### For rooted Lgv20 phones only.
 Warning: before you install Lemon Drop Hi-Res or read all of this post. I want everyone to know that I have discovered some shocking information about our music, that will absolutely shatter music as you know it for at least the last 24 years. I would make the analogy, it's like waking up from the Matrix for the first time. "You take the blue pill... the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill... you stay in Wonderland, and I show you how deep the rabbit hole goes" – Morpheus.<br>
 
+# Welcome to the future of music...<br>
 The worlds first 24/32bit QuadDAC in True Stereo!<br>
 The 16bit side is set at: 64bit, 176.4kHz with 6411 channels and upsampled 4X<br>
 The 24bit side is set at: 384bit, 705.6kHz with 24576 channels and upsampled 16X<br>

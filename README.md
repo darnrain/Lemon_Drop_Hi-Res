@@ -23,7 +23,7 @@ I am back on stage three again we had a miner setback, turns out all the music i
 3. You need to check for errors or typos in your code.<br>
 4. The first stable release???<br>
 
-latest release: v201.1<br>
+latest release: v202.2<br>
 
 I recommend only using the latest version. I'm making enormous modifications to the operation of the QuadDAC.<br>
 

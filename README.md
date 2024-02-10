@@ -26,7 +26,7 @@ latest release: v205.3<br>
 
 I recommend only using the latest version. I'm making enormous modifications to the operation of the QuadDAC.<br>
 
-I absolutely refuse to listen to music that sounds like absolute crap. Even if it takes me over a year, to fix the issue. Everyone in the world deserves the absolute very best, after they took away stereo music from everyone in the world! This is me righting a wrong! Justice, an eye for an eye!<br>
+I absolutely refuse to listen to music that sounds like absolute crap. Even if it takes me over a year, to fix the issue. Everyone in the world deserves the absolute very best, after they took away stereo music from everyone in the world! This is me, rectifying what was clearly wrong! Justice, an eye for an eye!<br>
 
 “I have not failed. I've just found 10,000 ways that won't work.”<br>
 — Thomas Edison<br>

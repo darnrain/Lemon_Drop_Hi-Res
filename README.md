@@ -24,8 +24,6 @@ Lemon Drop Hi-Res development stage: Number three.<br>
 
 latest release: v205.3<br>
 
-I recommend only using the latest version. I'm making enormous modifications to the operation of the QuadDAC.<br>
-
 I absolutely refuse to listen to music that sounds like absolute crap. Even if it takes me over a year, to fix the issue. This is me rectifying, what was so clearly wrong! Everyone in the world deserves the absolute very best, after they took away stereo music from everyone in the world! "If a man injures his fellow man, then what he has done should be done to him. Fracture for fracture, eye for eye, tooth for tooth, the same sort of injury he inflicted should be inflicted on him." — Leviticus. 24:19–20<br>
 
 "We live in a crooked world, with crooked people, with crooked music".<br>

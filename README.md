@@ -1,5 +1,5 @@
 ![banner](https://github.com/darnrain/Lemon_Drop_Hi-Res/assets/60840489/1fd80758-cdef-4be1-afb5-1d6666d383a0)
-### Welcome to the future of music...
+# Welcome to the future of music...
 ## An addon for the Lgv20 running Stock Oreo
 ## That transforms Stock Oreo into the Lemon Drop Hi-Res Rom.
 ### For rooted Lgv20 phones only. 

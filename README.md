@@ -15,14 +15,14 @@ DAC 3 = offload<br>
 
 Please listen at a safe volume level.<br>
 
-Lemon Drop Hi-Res development stage: Number four.<br>
+Lemon Drop Hi-Res development stage: Number three.<br>
  
 1. You need to program the QuadDAC.<br>
 2. You need to setup the QuadDAC.<br>
 3. You need to check for errors or typos in your code.<br>
 4. The worlds best Professional High Resolution Audio Player!<br>
 
-Final version: v207.1<br>
+Latest version: v207.1<br>
 
 ### Introduction:
 

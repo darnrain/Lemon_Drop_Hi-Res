@@ -15,7 +15,7 @@ DAC 3 = offload<br>
 
 Please listen at a safe volume level.<br>
 
-Latest version: v210.1<br>
+Latest version: v211.1<br>
 
 ### Introduction:
 

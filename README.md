@@ -22,7 +22,7 @@ Latest version: v214.1<br>
 I absolutely refuse to listen to music that sounds like absolute crap. Even if it takes me over a year, to fix the issue. This is me rectifying, what was so clearly wrong! Everyone in the world deserves the absolute very best, after they took away stereo music from everyone in the world!<br>
 
 "For every action there is an equal and opposite reaction."<br>
-— Sir Isaac Newton's<br>
+— Sir Isaac Newton<br>
 
 "We live in a crooked world, with crooked people, with crooked music".<br>
 — darnrain<br>

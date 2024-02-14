@@ -24,7 +24,7 @@ I absolutely refuse to listen to music that sounds like absolute crap. Even if i
 "For every action there is an equal and opposite reaction."<br>
 — Sir Isaac Newton<br>
 
-"We live in a crooked world, with crooked people, with crooked music".<br>
+"We live in a crooked world, with crooked people, with crooked music."<br>
 — darnrain<br>
 
 “I have not failed. I've just found 10,000 ways that won't work.”<br>

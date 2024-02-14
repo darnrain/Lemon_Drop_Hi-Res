@@ -20,10 +20,9 @@ Latest version: v214.1<br>
 ### Introduction:
 
 I absolutely refuse to listen to music that sounds like absolute crap. Even if it takes me over a year, to fix the issue. This is me rectifying, what was so clearly wrong! Everyone in the world deserves the absolute very best, after they took away stereo music from everyone in the world!<br>
-"For every action there is an equal and opposite reaction." — Sir Isaac Newton's<br>
 
-"The worlds best, Professional High Resolution Audio Player!"<br>
-— darnrain<br>
+"For every action there is an equal and opposite reaction." 
+— Sir Isaac Newton's<br>
 
 "We live in a crooked world, with crooked people, with crooked music".<br>
 — darnrain<br>

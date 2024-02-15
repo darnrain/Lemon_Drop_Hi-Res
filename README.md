@@ -8,10 +8,10 @@ The 16bit side is set at: 64bit, 176.4kHz with 6411 channels and upsampled 4X fr
 The 24bit side is set at: 384bit, 705.6kHz with 24576 channels and upsampled 16X from 16bit, 44.1kHz<br>
 Running in True Native Mode.<br>
 With all 4 DACs running independently.<br>
-DAC 0 = low-range<br>
-DAC 1 = mid-range<br>
-DAC 2 = high-range<br>
-DAC 3 = offload<br>
+DAC 0 = low-range - volume 51 - 96bit - 176.4kHz - 6144 channels.<br>
+DAC 1 = mid-range - volume 53 - 96bit - 176.4kHz - 6144 channels.<br>
+DAC 2 = high-range - volume 55 - 96bit - 176.4kHz - 6144 channels.<br>
+DAC 3 = offload - volume 57 - 96bit - 176.4kHz - 6144 channels.<br>
 
 Please listen at a safe volume level.<br>
 

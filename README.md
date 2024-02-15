@@ -3,7 +3,7 @@
 ## An addon for the Lgv20 running Stock Oreo
 ## That transforms Stock Oreo into the Lemon Drop Hi-Res Rom.
 ### For rooted Lgv20 phones only. 
-The worlds first 24/32bit QuadDAC in True Stereo!<br>
+Welcome to the worlds best & first 24/32bit QuadDAC in True Stereo!<br>
 The 16bit side is set at: 64bit, 176.4kHz with 6411 channels and upsampled 4X from 16bit, 44.1Khz<br>
 The 24bit side is set at: 384bit, 705.6kHz with 24576 channels and upsampled 16X from 16bit, 44.1kHz<br>
 Running in True Native Mode.<br>

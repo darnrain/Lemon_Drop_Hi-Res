@@ -21,7 +21,7 @@ Latest version: v214.1<br>
 
 Welcome to the worlds best & first 24/32bit QuadDAC in True Stereo!<br>
 
-What justifies this QuadDAC as the worlds best? It offers stereo. I know your saying, we already have stereo. I'm saying, no you don't. I could explain why. Why bother, people will believe what they want to believe.<br>
+What justifies this QuadDAC as the worlds best? It offers stereo. I know your saying, we already have stereo. I'm saying, no you don't. I could explain why. Why bother, people will believe what they want to believe. No one is going to believe when I say, I reinvented stereo music.<br>
 
 "You take the blue pill—the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill—you stay in Wonderland and I show you how deep the rabbit-hole goes."<br>
 — Morpheus<br>

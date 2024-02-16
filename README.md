@@ -21,7 +21,7 @@ Latest version: v214.1<br>
 
 Welcome to the worlds best & first 24/32bit QuadDAC in True Stereo!<br>
 
-What justifies this QuadDAC as the worlds best? It offers stereo. I know your saying, we already have stereo. I'm saying, no you don't. I could go into detail as to why. Why bother, people are going to believe what they want to believe. It would be like trying to convince someone that the Earth is a sphere, not flat.<br>
+What justifies this QuadDAC as the worlds best? It offers stereo. I know your saying, we already have stereo. I'm saying, no you don't. I could go into detail as to why. Why bother, people are going to believe what they want to believe. It would be like trying to convince someone that the Earth is a sphere, when they absolutely know the Earth is flat.<br>
 
 "For every action there is an equal and opposite reaction."<br>
 — Sir Isaac Newton<br>

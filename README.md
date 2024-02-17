@@ -23,7 +23,7 @@ Welcome to the worlds best & first 24/32bit QuadDAC in True Stereo!<br>
 
 What justifies this QuadDAC as the worlds best? It offers stereo. I know your saying, we already have stereo. I'm saying, no you don't. I could explain why. Why bother, people will believe what they want to believe. People didn't believe me when I said, I was programing my QuadDAC. People definitely are not going to believe me when I say, I reinvented stereo. It makes sense, it's hard to believe the unbelievable. Huh, I wonder if that means I have unbelievable computer skills, 34 years but who's counting. That’s the reason why people cant leave a comment on my projects or open an issue. I’m sick of people telling me to stop lying about programing my QuadDAC. But I’m not going to punish everyone just because there were a few bad apples, That’s why my code and Lemon Drop Hi-Res is still on GitHub for everyone to enjoy.<br>
 
-(cough) (cough) --> LineageOS Devs. I guess they know everything apparently. Must be nice, I wish I knew everything<br>
+(cough) (cough) --> LineageOS Devs. I guess they know everything apparently. Must be nice, I wish I knew everything.<br>
 
 "You take the blue pill—the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill—you stay in Wonderland and I show you how deep the rabbit-hole goes."<br>
 — Morpheus<br>

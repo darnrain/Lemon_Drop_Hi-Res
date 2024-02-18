@@ -21,7 +21,7 @@ Latest version: v216.1<br>
 
 Welcome to the worlds best & first 24/32bit QuadDAC in True Stereo!<br>
 
-What justifies this QuadDAC as the worlds best? It offers stereo. I know your saying, we already have stereo. I'm saying, no you don't. People will believe what they want to believe. People didn't believe me when I said, I was programing my QuadDAC. People definitely are not going to believe me when I say, I reinvented stereo. It makes sense, it's hard to believe the unbelievable. Huh, I wonder if that means I have unbelievable computer skills, 34 years but who's counting. That’s the reason why no one can leave a comment on my projects or open an issue. A few people are leaving comments on GitHub, telling me to stop lying to people. I didn't write over 18,000 lines of code and spend over a year on this project for nothing. I wanted the worlds best!<br>
+I’m not going to beat around the bush. I reinvented stereo. I also invented the worlds first 24/32bit QuadDAC. I wanted the worlds best! So I reprogrammed my QuadDAC on my Lgv20. That about sums it up.<br>
 
 "You take the blue pill—the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill—you stay in Wonderland and I show you how deep the rabbit-hole goes."<br>
 — Morpheus<br>

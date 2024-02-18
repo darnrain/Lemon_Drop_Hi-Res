@@ -15,7 +15,7 @@ DAC 3 = offload - volume 57 - 96bit - 176.4kHz - 6144 channels.<br>
 
 Please listen at a safe volume level.<br>
 
-Latest version: v216.1<br>
+Latest version: v217.1<br>
 
 ### Introduction
 I’m not going to beat around the bush. I reinvented stereo. I also invented the worlds first 24/32bit QuadDAC. That about sums it up.<br>

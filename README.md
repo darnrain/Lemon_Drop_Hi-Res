@@ -18,10 +18,7 @@ Please listen at a safe volume level.<br>
 Latest version: v216.1<br>
 
 ### Introduction
-
-Welcome to the worlds best & first 24/32bit QuadDAC in True Stereo!<br>
-
-I’m not going to beat around the bush. I reinvented stereo. I also invented the worlds first 24/32bit QuadDAC. I wanted the worlds best! So I reprogrammed my QuadDAC on my Lgv20. That about sums it up.<br>
+I’m not going to beat around the bush. I reinvented stereo. I also invented the worlds first 24/32bit QuadDAC. That about sums it up.<br>
 
 "You take the blue pill—the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill—you stay in Wonderland and I show you how deep the rabbit-hole goes."<br>
 — Morpheus<br>

@@ -20,7 +20,7 @@ Latest version: v217.2<br>
 ### Introduction
 I’m not going to beat around the bush. I reinvented stereo. I also invented the worlds first 24/32bit QuadDAC.<br>
 
-I enabled Hardware Offloaded Audio Processing. In other words all audio including bluetooth is routed through the QuadDAC. Android has no say, when it has to do with the audio. This also means that the QuadDAC must stay enabled at all times. This was the only way, I was able to get around the audio limitations set in place by Android. In other words, checkmate.<br>
+I’m not going to beat around the bush. I reinvented stereo. I also invented the worlds first 24/32bit QuadDAC. I also invented Hardware Offloaded Audio Processing on Android. In other words all audio including bluetooth is routed through the QuadDAC. Android has no say, when it has to do with the audio. This also means that the QuadDAC must stay enabled at all times. This was the only way, I was able to get around the audio limitations set in place by Android. In other words, checkmate.<br>
 
 "You take the blue pill—the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill—you stay in Wonderland and I show you how deep the rabbit-hole goes."<br>
 — Morpheus<br>

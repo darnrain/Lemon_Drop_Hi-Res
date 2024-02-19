@@ -30,6 +30,9 @@ I’m not going to beat around the bush. I reinvented stereo. I also invented th
 "We live in a crooked world, with crooked people, with crooked music."<br>
 — darnrain<br>
 
+“Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth”<br>
+— Sir Arthur Conan Doyle<br>
+
 “I have not failed. I've just found 10,000 ways that won't work.”<br>
 — Thomas Edison<br>
 
@@ -66,7 +69,6 @@ Credits, A Special Thank You<br>
 @NotYetADev for making the VS995 Oreo Rom XDA<br>
 @dudeawsome for the H990DS Oreo Rom Link1 XDA<br>
 @reza_xdv for the H990DS Oreo Rom Link2 XDA<br>
-at the people that made audio-offset-finder GitHub<br>
 at the people over at AdAway Hosts List GitHub<br>
 at the people over at Magisk, for an Opensource Root<br>
 at the people over at TWRP for a great recovery app<br>

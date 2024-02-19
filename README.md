@@ -6,6 +6,7 @@
 Welcome to the worlds best & first 24/32bit QuadDAC in True Stereo!<br>
 The 16bit side is set at: 64bit, 176.4kHz with 6411 channels and upsampled 4X from 16bit, 44.1Khz<br>
 The 24bit side is set at: 384bit, 705.6kHz with 24576 channels and upsampled 16X from 16bit, 44.1kHz<br>
+24bit QuadDAC 24 X 4 = 96<br>
 Running in True Native Mode.<br>
 With all 4 DACs running independently.<br>
 DAC 0 = low-range - volume 51 - 96bit - 176.4kHz - 6144 channels.<br>

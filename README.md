@@ -1,5 +1,5 @@
 ![banner](https://github.com/darnrain/Lemon_Drop_Hi-Res/assets/60840489/1fd80758-cdef-4be1-afb5-1d6666d383a0)
-## It's only a matter of time. Everyone needs to prepare for the inevitable. I'm not stopping tell I have the worlds best! It's about time, we the people take back our music! This is America the land of the free!
+## It's only a matter of time. Everyone needs to prepare for the inevitable. I'm not stopping tell I have the worlds best! It's about time, we the people take back our music! This is America, the land of the free!
 ### An addon for the Lgv20 running Stock Oreo
 ### That transforms Stock Oreo into the Lemon Drop Hi-Res Rom.
 ### For rooted Lgv20 phones only. 

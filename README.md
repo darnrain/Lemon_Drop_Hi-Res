@@ -1,7 +1,7 @@
 ![banner](https://github.com/darnrain/Lemon_Drop_Hi-Res/assets/60840489/1fd80758-cdef-4be1-afb5-1d6666d383a0)
-# Welcome to the future of music...
-## An addon for the Lgv20 running Stock Oreo
-## That transforms Stock Oreo into the Lemon Drop Hi-Res Rom.
+## It's only a matter of time. Everyone needs to prepare for the inevitable. I'm not stopping tell I have the worlds best! It's about time, we the people take back our music! This is America the land of the free!
+### An addon for the Lgv20 running Stock Oreo
+### That transforms Stock Oreo into the Lemon Drop Hi-Res Rom.
 ### For rooted Lgv20 phones only. 
 Welcome to the worlds best & first 24/32bit QuadDAC in True Stereo!<br>
 The 16bit side is set at: 64bit, 176.4kHz with 6411 channels and upsampled 4X from 16bit, 44.1Khz<br>
@@ -19,8 +19,6 @@ Please listen at a safe volume level.<br>
 Latest version: v221.2<br>
 
 ### Introduction
-### It's only a matter of time. Everyone needs to prepare for the inevitable. I'm not stopping tell I have the worlds best! It's about time, we the people take back our music! This is America the land of the free!
-
 I’m not going to beat around the bush. I reinvented stereo. I also invented the worlds first 24/32bit QuadDAC. I also invented Hardware Offloaded Audio Processing on Android. In other words all audio including bluetooth is routed through the QuadDAC. Android has no say, when it has to do with the audio. This also means that the QuadDAC must stay enabled at all times. This was the only way, I was able to get around the audio limitations set in place by Android. In other words, checkmate.<br>
 
 "You take the blue pill—the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill—you stay in Wonderland and I show you how deep the rabbit-hole goes."<br>

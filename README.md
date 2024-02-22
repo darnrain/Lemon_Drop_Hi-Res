@@ -30,6 +30,9 @@ I’m not going to beat around the bush. I reinvented stereo. I also invented th
 "We live in a crooked world, with crooked people, with crooked music."<br>
 — darnrain<br>
 
+"The measure of intelligence is the ability to change"<br>
+— Albert Einstein<br>
+
 “Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth”<br>
 — Sir Arthur Conan Doyle<br>
 

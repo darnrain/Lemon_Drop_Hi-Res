@@ -16,7 +16,7 @@ DAC 3 = offload - volume 57 - 96bit - 176.4kHz - 6144 channels.<br>
 
 Please listen at a safe volume level.<br>
 
-Latest version: v221.2<br>
+Latest version: v222.11<br>
 
 ### Introduction
 I’m not going to beat around the bush. I reinvented stereo. I also invented the worlds first 24/32bit QuadDAC. I also invented Hardware Offloaded Audio Processing on Android. In other words all audio including bluetooth is routed through the QuadDAC. Android has no say, when it has to do with the audio. This also means that the QuadDAC must stay enabled at all times. This was the only way, I was able to get around the audio limitations set in place by Android. In other words, checkmate.<br>

@@ -1,6 +1,7 @@
 ![banner](https://github.com/darnrain/Lemon_Drop_Hi-Res/assets/60840489/1fd80758-cdef-4be1-afb5-1d6666d383a0)
 ## Welcome to the future of music...
-### A twrp flashable file that transforms Stock Oreo into the Lemon Drop Hi-Res Rom.
+### A twrp flashable file that transforms
+### Stock Oreo into the Lemon Drop Hi-Res Rom.
 ### For rooted Lgv20 phones only. 
 Welcome to the worlds best & first 24/32bit QuadDAC in True Stereo!<br>
 The 16bit side is set at: 64bit, 176.4kHz with 6411 channels and upsampled 4X from 16bit, 44.1Khz<br>

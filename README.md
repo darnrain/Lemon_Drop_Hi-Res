@@ -14,7 +14,7 @@ DAC 1 = mid-range - volume 53 - 96bit - 176.4kHz - 6144 channels.<br>
 DAC 2 = high-range - volume 55 - 96bit - 176.4kHz - 6144 channels.<br>
 DAC 3 = offload - volume 57 - 96bit - 176.4kHz - 6144 channels.<br>
 
-Please listen at a safe volume level.<br>
+Please listen at a safe volume level. ;)<br>
 
 Latest version: v223.1<br>
 

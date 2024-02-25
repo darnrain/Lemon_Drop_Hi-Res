@@ -19,13 +19,13 @@ Please listen at a safe volume level.<br>
 Latest version: v223.1<br>
 
 ### Introduction
-I’m not going to beat around the bush. I invented the worlds first 24/32bit QuadDAC in True Stereo!. I also invented Hardware Offloaded Audio Processing on Android. In other words all audio including bluetooth is routed through the QuadDAC. Android has no say, when it has to do with the audio. This also means that the QuadDAC must stay enabled at all times. This was the only way, I was able to get around the audio limitations set in place by Android. In other words, checkmate.<br>
-
-"You take the blue pill—the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill—you stay in Wonderland and I show you how deep the rabbit-hole goes."<br>
-— Morpheus<br>
+The world needs to prepare for the inevitable. This will absolutely change the world, as you know it. Some will be happy, some will not be happy. I have made the executive decision. Based on a number of factors one being, that it is unjust that they only provide extremely poor audio quality that’s free. It's not even stereo. At least have the decency to tell the world the truth, they must pay for stereo. Everyone thinks they are going deaf in there left ear. Whoever messed up the free audio may think that’s funny, but I’m not laughing. The open source community will have the very best audio, known to mankind.<br>
 
 "For every action there is an equal and opposite reaction."<br>
 — Sir Isaac Newton<br>
+
+"You take the blue pill—the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill—you stay in Wonderland and I show you how deep the rabbit-hole goes."<br>
+— Morpheus<br>
 
 "We live in a crooked world, with crooked people, with crooked music."<br>
 — darnrain<br>

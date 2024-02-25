@@ -24,17 +24,14 @@ The world needs to prepare for the inevitable. This will absolutely change the w
 "For every action there is an equal and opposite reaction."<br>
 — Sir Isaac Newton<br>
 
-"You take the blue pill—the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill—you stay in Wonderland and I show you how deep the rabbit-hole goes."<br>
-— Morpheus<br>
-
 "We live in a crooked world, with crooked people, with crooked music."<br>
 — darnrain<br>
 
-"The measure of intelligence is the ability to change"<br>
-— Albert Einstein<br>
-
 “Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth”<br>
 — Sir Arthur Conan Doyle<br>
+
+"The measure of intelligence is the ability to change"<br>
+— Albert Einstein<br>
 
 “I have not failed. I've just found 10,000 ways that won't work.”<br>
 — Thomas Edison<br>

@@ -3,7 +3,7 @@
 ### A twrp flashable file that transforms Stock Oreo into the Lemon Drop Hi-Res Rom.
 ### For rooted Lgv20 phones only. 
 Welcome to the worlds best & first 24/32bit QuadDAC in True Stereo!<br>
-The 16bit side is set at: 64bit, 176.4kHz with 6411 channels and upsampled 4X from 16bit, 44.1Khz<br>
+The 16bit side is set at: 256bit, 705.6kHz with 24576 channels and upsampled 16X from 16bit, 44.1Khz<br>
 The 24bit side is set at: 384bit, 705.6kHz with 24576 channels and upsampled 16X from 16bit, 44.1kHz<br>
 24bit QuadDAC 24 X 4 = 96<br>
 Running in True Native Mode.<br>
@@ -15,7 +15,7 @@ DAC 3 = offload - volume 57 - 96bit - 176.4kHz - 6144 channels.<br>
 
 Please listen at a safe volume level. ;)<br>
 
-Latest version: v223.1<br>
+Latest version: v224.1<br>
 
 ### Introduction
 The world needs to prepare for the inevitable. This will absolutely change the world, as you know it. Some will be happy, some will not be happy. I have made the executive decision. Based on a number of factors one being, that it is unjust that they only provide extremely poor audio quality that’s free. It's not even stereo. At least have the decency to tell the world the truth, they must pay for stereo. Everyone thinks they are going deaf in there left ear. Whoever messed up the free audio may think that’s funny, but I’m not laughing. The open source community will have the very best audio, known to mankind.<br>

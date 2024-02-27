@@ -8,13 +8,13 @@ The 24bit side is set at: 384bit, 705.6kHz with 24576 channels and upsampled 16X
 Running in True Native Mode.<br>
 With all 4 DACs running independently.<br>
 
-16bit QuadDAC<br>
+16bit Headphones/Bluetooth<br>
 DAC 0 = low-range - volume 51 - 64bit - 176.4kHz - 6144 channels.<br>
 DAC 1 = mid-range - volume 53 - 64bit - 176.4kHz - 6144 channels.<br>
 DAC 2 = high-range - volume 55 - 64bit - 176.4kHz - 6144 channels.<br>
 DAC 3 = offload - volume 57 - 64bit - 176.4kHz - 6144 channels.<br>
 
-24bit QuadDAC<br>
+24bit Headphones/Bluetooth<br>
 DAC 0 = low-range - volume 51 - 96bit - 176.4kHz - 6144 channels.<br>
 DAC 1 = mid-range - volume 53 - 96bit - 176.4kHz - 6144 channels.<br>
 DAC 2 = high-range - volume 55 - 96bit - 176.4kHz - 6144 channels.<br>

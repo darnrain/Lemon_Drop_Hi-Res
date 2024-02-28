@@ -5,6 +5,7 @@
 Welcome to the worlds best & first 24/32bit QuadDAC in True Stereo!<br>
 Headphone/Bluetooth 16bit is set at: 256bit, 705.6kHz with 24576 channels and upsampled 16X from 16bit, 44.1Khz<br>
 Headphone/Bluetooth 24bit is set at: 384bit, 705.6kHz with 24576 channels and upsampled 16X from 16bit, 44.1kHz<br>
+Internal Speaker 16bit is set at: 64bit, 176.4 with 4 channels and upsampled 4X from 16bit, 44.1kHz<br>
 Internal Speaker 24bit is set at: 96bit, 176.4 with 6144 channels and upsampled 4X from 16bit, 44.1kHz<br>
 
 16bit Headphones/Bluetooth<br>
@@ -18,6 +19,12 @@ DAC 0 = low-range - volume 51 - 96bit - 176.4kHz - 6144 channels.<br>
 DAC 1 = mid-range - volume 53 - 96bit - 176.4kHz - 6144 channels.<br>
 DAC 2 = high-range - volume 55 - 96bit - 176.4kHz - 6144 channels.<br>
 DAC 3 = offload - volume 57 - 96bit - 176.4kHz - 6144 channels.<br>
+
+16bit Internal speaker<br>
+DAC 0 = low-range - volume 51 - 16bit - 44.1kHz - 1 channels.<br>
+DAC 1 = mid-range - volume 53 - 16bit - 44.1kHz - 1 channels.<br>
+DAC 2 = high-range - volume 55 - 16bit - 44.1kHz - 1 channels.<br>
+DAC 3 = offload - volume 57 - 16bit - 44.1kHz - 1 channels.<br>
 
 24bit Internal speaker<br>
 DAC 0 = low-range - volume 51 - 24bit - 44.1kHz - 1536 channels.<br>

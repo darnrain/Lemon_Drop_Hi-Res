@@ -45,6 +45,9 @@ The world needs to prepare for the inevitable. This will absolutely change the w
 "We live in a crooked world, with crooked people, with crooked music."<br>
 — darnrain<br>
 
+"Fundamentally, life itself is free".<br>
+— darnrain<br>
+
 “Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth”<br>
 — Sir Arthur Conan Doyle<br>
 

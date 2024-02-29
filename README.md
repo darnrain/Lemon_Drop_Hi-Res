@@ -34,7 +34,7 @@ DAC 3 = offload - volume 57 - 24bit - 44.1kHz - 1536 channels.<br>
 
 Please listen at a safe volume level. ;)<br>
 
-Latest version: v226.1<br>
+Latest version: v227.1<br>
 
 ### Introduction
 The world needs to prepare for the inevitable. This will absolutely change the world, as you know it. Some will be happy, some will not be happy. I have made the executive decision. Based on a number of factors one being, that it is unjust that they only provide extremely poor audio quality that’s free. It's not even stereo. At least have the decency to tell the world the truth, they must pay for stereo. Everyone thinks they are going deaf in there left ear. Whoever messed up the free audio may think that’s funny, but I’m not laughing. The open source community will have the very best audio, known to mankind.<br>

@@ -45,7 +45,7 @@ Latest version: v229.1<br>
 "Fundamentally, life itself is free".<br>
 — darnrain<br>
 
-"The more mistakes I make, the more I learn.<br>
+"The more mistakes I make, the more I learn. The more I learn, the smarter I get. The smarter I get, the more mistakes I have made."
 — darnrain<br>
 
 “Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth”<br>

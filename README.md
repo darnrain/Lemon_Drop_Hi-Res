@@ -48,7 +48,7 @@ The world needs to prepare for the inevitable. This will absolutely change the w
 "Fundamentally, life itself is free".<br>
 — darnrain<br>
 
-"The more mistakes I make, the more I learn. The more I learn, the smarter I get. The smarter I get, the more mistakes I have made."
+"The more mistakes I make, the more I learn. The more I learn, the smarter I get. The smarter I get, the closer to perfection, I become.<br>
 — darnrain<br>
 
 “Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth”<br>

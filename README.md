@@ -34,7 +34,7 @@ DAC 3 = offload - volume 57 - 24bit - 44.1kHz - 1536 channels.<br>
 
 Please listen at a safe volume level. ;)<br>
 
-Latest version: v229.1<br>
+Latest version: v230.1<br>
 
 "For every action there is an equal and opposite reaction."<br>
 — Sir Isaac Newton<br>
